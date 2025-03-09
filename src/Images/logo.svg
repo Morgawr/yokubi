@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127.70682mm"
+   height="101.63815mm"
+   viewBox="0 0 127.70682 101.63815"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="40.55555"
+       y="237.53966"
+       width="696.6864"
+       height="382.38089"
+       id="rect3" />
+    <rect
+       x="44.900787"
+       y="62.281738"
+       width="434.52374"
+       height="182.49997"
+       id="rect2" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-35.00758,-13.726763)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,35.64,-8.4309677)"
+       id="text2"
+       style="font-size:133.333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.67087;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+         x="44.900391"
+         y="196.28091"
+         id="tspan1">よくび</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,21.843871,-24.143226)"
+       id="text3"
+       style="font-size:266.667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.67087;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+         x="40.554688"
+         y="505.53939"
+         id="tspan2">翌日</tspan></text>
+  </g>
+</svg>
