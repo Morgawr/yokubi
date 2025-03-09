@@ -7,10 +7,46 @@
    viewBox="0 0 127.70682 101.63815"
    version="1.1"
    id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0174716"
+     inkscape:cx="241.14342"
+     inkscape:cy="192.56777"
+     inkscape:window-width="1877"
+     inkscape:window-height="1002"
+     inkscape:window-x="43"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
     <rect
        x="40.55555"
        y="237.53966"
@@ -23,25 +59,38 @@
        width="434.52374"
        height="182.49997"
        id="rect2" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="57.231056"
+       y1="146.08104"
+       x2="446.03534"
+       y2="146.08104"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="layer1"
      transform="translate(-35.00758,-13.726763)">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,35.64,-8.4309677)"
        id="text2"
-       style="font-size:133.333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.67087;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#ffffff;stroke:#000000;stroke-width:16.4976;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;fill-opacity:1"
+       inkscape:label="Furigana"
+       transform="matrix(0.26458333,0,0,0.26458333,35.64,-6.0703396)"><tspan
          x="44.900391"
          y="196.28091"
-         id="tspan1">よくび</tspan></text>
+         id="tspan4"><tspan
+           style="baseline-shift:baseline;stroke-linecap:round"
+           id="tspan3">よくび</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,21.843871,-24.143226)"
+       transform="matrix(0.26458333,0,0,0.26458333,29.188047,-22.438328)"
        id="text3"
-       style="font-size:266.667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.67087;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+       style="font-size:240px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:16.4976;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="Kanji"><tspan
          x="40.554688"
-         y="505.53939"
-         id="tspan2">翌日</tspan></text>
+         y="478.73906"
+         id="tspan5">翌日</tspan></text>
   </g>
 </svg>
