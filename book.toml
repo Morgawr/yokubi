@@ -6,6 +6,7 @@ title = "Yokubi"
 
 [output.html]
 default-theme = "Navy"
+additional-js = ["js/lunr.stemmer.support.js", "js/tinyseg.js", "js/lunr.jp.js", "js/lunr.multi.js", "js/load-lunr-plugin.js"]
 additional-css = ["style/custom.css"]
 no-section-label = true
 
