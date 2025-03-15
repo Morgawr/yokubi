@@ -1,3 +1,5 @@
+/* Copied from https://github.com/weixsong/lunr-languages */
+
 /*!
  * Snowball JavaScript Library v0.3
  * http://code.google.com/p/urim/

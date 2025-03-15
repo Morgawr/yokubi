@@ -1,3 +1,5 @@
+/* Copied from https://github.com/weixsong/lunr-languages */
+
 /**
  * export the module via AMD, CommonJS or as a browser global
  * Export code from https://github.com/umdjs/umd/blob/master/returnExports.js

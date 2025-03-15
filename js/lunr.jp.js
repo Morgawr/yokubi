@@ -1,3 +1,5 @@
+/* Copied from https://github.com/weixsong/lunr-languages */
+
 /*!
  * Lunr languages, `Japanese` language
  * https://github.com/MihaiValentin/lunr-languages
