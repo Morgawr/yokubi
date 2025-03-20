@@ -12,3 +12,6 @@ no-section-label = true
 
 [output.html.fold]
 enable = true
+
+[output.html.search]
+use-boolean-and = true   # multiple search terms combined with AND opposed to OR
