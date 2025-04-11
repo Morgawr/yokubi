@@ -1,6 +1,6 @@
 # Questions with か
 
-Questions in are formed with tone of voice, and they sometimes end with か or の also depending on the politeness level. 
+Questions in Japanese are formed with tone of voice, and they sometimes end with か or の also depending on the politeness level. 
 
 This lesson will cover yes/no questions with か. We'll cover "wh"-questions and の questions later.
 
