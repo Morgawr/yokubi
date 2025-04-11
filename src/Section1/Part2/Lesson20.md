@@ -75,8 +75,7 @@ You can also end の statements with の directly, without だ, but it comes acr
 
 Let’s talk now about the nuance these の questions and statements give. 
 
-At a surface level, のだ statements look similar to their の question counterparts, but the presence of の adds some kind of “explanatory” or “inquisitive”
-tone to them.
+At a surface level, both の questions and のだ statements look similar to normal questions and statements without の(だ), but the presence of this の(だ) adds some kind of “explanatory” or “inquisitive” tone to them.
 
 When you ask a question with の？ or んですか？ you are adding some implication that you expect the other person to provide an explanation, excuse, or reasoning for what you are asking them. You usually ask such questions when you are seeking clarification about something.
 
