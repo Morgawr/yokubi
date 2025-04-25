@@ -1,7 +1,7 @@
 pre {
   display: block;
   width: 80%;
-  margin-left: 10%;
+  margin: 0 auto;
   background-color: transparent;
   background: rgba(200, 200, 200, 0.04);
   padding: 0.5em;
