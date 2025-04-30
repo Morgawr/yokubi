@@ -42,7 +42,7 @@ If you still don't know what to do, or you came back here confused:
 - Start learning the hiragana and katakana outside this guide.
 - Start studying vocabulary outside this guide.
 - Understand that not all individual kanji represent complete Japanese words.
-- Remind yourself that Japanese is not a literal transposition of English word-by-word
+- Remind yourself that Japanese is not a literal transposition of English word-by-word.
 - A lot of concepts will not make sense in terms of literal English.
 - You can't acquire a language without consuming it.
 - Until you consume enough Japanese, some things simply won't click.
