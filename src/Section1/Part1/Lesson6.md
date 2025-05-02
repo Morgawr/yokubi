@@ -60,7 +60,7 @@ This is a good time to take notice that particles can attach to phrases as well,
 
 <pre>
 私の家<b>から</b>来る   
-It comes from my house
+It comes <b>from</b> my house
 </pre>
 
 Here から attaches to 私の家 which can be considered a single phrase (“my house”).   
