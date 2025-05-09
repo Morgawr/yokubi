@@ -19,7 +19,7 @@ Remember: these translations are only for demonstration. The sentences and trans
 A cat eats a fish.
 </pre>
 
-Here, が marks "Cat" as the subject. を marks サカナ as the direct object. Then the verb comes at the end of the sentence. The subject of a verb like "eat" is the thing doing the eating. The object is the thing that is being eaten.
+Here, が marks ネコ as the subject. を marks サカナ as the direct object. Then the verb comes at the end of the sentence. The subject of a verb like "eat" is the thing doing the eating. The object is the thing that is being eaten.
 
 As introduced in [Lesson 0](./Lesson0.md), it is more common to first introduce a “topic” rather than explicitly mark a subject or object. To do this, Japanese uses the “topic marker” particle は, which literally just says "this is what I'm talking about". Most grammar resources compare は to が. They do this because sometimes it's unnatural to use が, and you have to use は instead, or leave the subject unstated. But do not be tricked, は is more general than being an alternative to が. Sometimes it replaces が in the sentence as it introduces the subject as being the topic, but other times it can mark the object as a topic instead. In those cases, the thing marked by を is what gets replaced. As seen in the following examples.
 
