@@ -3,7 +3,7 @@
 
 ## What you need
 
-This guide assumes that you know the hiragana and katakana and that you're studying basic Japanese vocabulary. The most efficient way to learn the kana (hiragana+katakana) is to drill it through brute force. You can use [a kana drill site](https://vedxyz.github.io/kana/) for this. You can also learn by exposure.
+This guide assumes that you know the hiragana and katakana and that you're studying basic Japanese vocabulary. The most efficient way to learn the kana (hiragana+katakana) is to drill it through brute force. You can use [a kana drill site](https://kuuuube.github.io/kana-quiz/kana/index.html) for this. You can also learn by exposure.
 
 This guide assumes that you know what writing systems Japanese uses, and that you know what Japanese text looks like, and what Kanji are.
 
