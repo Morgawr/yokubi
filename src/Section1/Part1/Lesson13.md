@@ -3,9 +3,6 @@
 Normally, で marks the "circumstance" or "means" behind an action, or the “location” where such action occurs. 
 
 <pre>
-金属<b>で</b>出来ている
-It is made <b>of</b> metal
-
 刀<b>で</b>殺した
 He killed <b>with</b> a katana
 
@@ -14,6 +11,9 @@ I came <b>by</b> bus
 
 学校<b>で</b>働く
 To work <b>in</b> a school
+
+金属<b>で</b>出来ている
+It is made <b>of</b> metal
 </pre>
 
 で originally comes from contracting the compound particle にて. You may still see にて in old fashioned or formal writing or announcements.
