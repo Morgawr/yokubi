@@ -54,7 +54,7 @@ Sometimes に can also replace direct objects in verbs that are considered trans
 To ride the train
 </pre>
 
-All the particles in this lesson can be used in many other ways too, you should learn them as you come across them as we won't list all of them.
+All the particles in this lesson can be used in many other ways too. You should learn them as you come across them as we won't list all of them.
 
 This is a good time to take notice that particles can attach to phrases as well, not just words. This applies to every particle we've learned so far.
 
