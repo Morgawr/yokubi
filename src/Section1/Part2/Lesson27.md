@@ -80,11 +80,11 @@ This means that when you say X なら Y, the meaning is close to something like 
 Due to this specific nuance of なら, it is the only conditional where the second clause can happen before the preceding one. と, たら, and ば cannot do this.
 
 <pre>
-乗る<b>なら</b>飲まないで
+運転する<b>なら</b>飲まないで
 <b>If</b> you <b>will be</b> driving, do not drink.
 </pre>
 
-The act of 飲む would have to happen before the condition of 乗る, hence the speaker **assumes** 乗る will happen in the hypothetical world where the advice (飲まないで) takes place.
+The act of 飲む would have to happen before the condition of 運転する, hence the speaker **assumes** 運転する will happen in the hypothetical world where the advice (飲まないで) takes place.
 
 Sometimes なら can show up as ならば. The meaning is the same, but it feels more literary.
 
