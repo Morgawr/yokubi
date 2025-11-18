@@ -43,12 +43,12 @@ The causative form can also be chained with the passive (せる \-\> せられ�
 
 Causative-passive sentences cannot assume the meaning of “to be allowed” but only “to be forced”. 
 
-When used with する verbs, the causative form can turn an intransitive する verb, into a transitive one (する -> させる).
+When used with する verbs, the causative form can turn a する verb that is commonly used intransitively into having an explicitly transitive meaning (する -> させる).
 
 <pre>
-シミュレーターが起動<b>する</b>。
-The simulator starts up. (intransitive)
+空気が乾燥<b>している</b>。
+The air is (being) dry. (intransitive)
 
-カメラアプリを起動<b>させる</b>。
-I start up the camera app. (transitive)
+果物を乾燥<b>させた</b>お菓子。
+A candy made of fruit that was dried. (transitive)
 </pre>
