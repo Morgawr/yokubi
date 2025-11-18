@@ -33,6 +33,6 @@ What are you saying
 Dinner has already been made
 </pre>
 
-てある can turn the direct object and into a subject. This means that the verb's normal "logical object" gets marked by が or は (or unmarked), like dinner in the example above. However, because Japanese is linguistically weird, sometimes を can be used, too.
+てある can turn the direct object into a subject. This means that the verb's normal "logical object" gets marked by が or は (or unmarked), like dinner in the example above. However, because Japanese is linguistically weird, sometimes を can be used, too.
 
 Finally, it expresses a state, not an action, so てある should not be considered "the passive" version of the verb. Japanese has a real passive that we'll cover soon.

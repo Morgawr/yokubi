@@ -21,7 +21,7 @@ To approach <b>from</b> the south
 
 This usage of より is common in written letters, where より marks the sender and へ the recipient.
 
-If you want to list both sides of a comparison, you mark the lower bound with より and the upper bound with 方. 方 is a noun that reads ほう (don't be tricked by the かた reading!), and as per every noun, it attaches to other nouns with の and can take particles after it. In case of a comparison, the 方 "side" is usually marked by が whether or not it is the subject of the action.
+If you want to list both sides of a comparison, you mark the lower bound with より and the upper bound with 方. 方 is a noun that reads ほう in this usage (don't be tricked by the かた reading!), and as with every noun, it attaches to other nouns with の and can take particles after it. In case of a comparison, the 方 "side" is usually marked by が whether or not it is the subject of the action.
 
 <pre>
 メリット<b>より</b>もデメリット<b>の方が</b>大きい
