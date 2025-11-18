@@ -30,7 +30,7 @@ With intransitive verbs, the target can be marked by を, but with transitive on
 To let the kids play outside.
 
 子供<b>に</b>飲<b>ませる</b>酒はない。
-I won't make/let a child drink alcohol.
+I won't make/let a child drink alcohol. (lit. "There is no alcohol that I would let/make children drink")
 </pre>
 
 The causative form can also be chained with the passive (せる \-\> せられる).

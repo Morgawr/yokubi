@@ -18,7 +18,7 @@ It is made <b>of</b> metal
 
 で originally comes from contracting the compound particle にて. You may still see にて in old fashioned or formal writing or announcements.
 
-で can also be used like it's the て form of だ. In this usage, it assumes the typical conjunction usage of て form as with verbs or adjectives, except it works with nouns or noun-like words.
+で can function like a て form of だ, acting on nouns as it does on verbs. In this usage, it assumes the typical conjunction usage of て form as with verbs or adjectives.
 
 <pre>
 中学生<b>で</b>一人暮らしはできない

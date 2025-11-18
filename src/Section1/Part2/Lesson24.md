@@ -6,6 +6,8 @@ A simple example of a passive sentence in English would be “The cake is eaten 
 
 Godan and ichidan verbs form the passive in different ways. Godan verbs take the negative stem and replace ない with れる, the passive suffix. Ichidan verbs take the stem and add られる. 
 
+Both godan and ichidan verbs when turned into passive form become ichidan verbs and follow the typical conjugation rules. 
+
 | Active | Passive        |
 |--------|----------------|
 | 食べる | 食べ**られる** |
