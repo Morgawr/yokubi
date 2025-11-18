@@ -60,12 +60,14 @@ In a similar manner, we can also use も to turn question words into "inclusive/
 ここは何<b>も</b>ない  
 There is <b>no</b>thing here
 
-誰<b>も</b>知ってること  
+誰<b>も</b>が知ってること  
 Things that <b>every</b>one/<b>any</b>one knows.
 
 いつ<b>も</b>そんなことを考えてるの？  
 Have you <b>always</b> been thinking about that?
 </pre>
+
+Note: In case of 誰も used as subject in a non-negative statement, the が cannot be dropped so it becomes 誰もが
 
 There's a logical distinction between "every particular thing" and "any one particular thing". By attaching でも to some of these words, you can give them the "any" sense of "any one particular thing".
 
