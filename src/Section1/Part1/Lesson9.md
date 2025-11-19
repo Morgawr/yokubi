@@ -38,11 +38,12 @@ You'd be right to assume that the た is what makes it the past tense. The hard 
 切<b>った</b>	殺<b>した</b>	死<b>んだ</b>	選<b>んだ</b>	読<b>んだ</b>	買<b>った</b>	動<b>いた</b>	急<b>いだ</b>	持<b>った</b>
 </pre>
 
-Don't memorize this table. There's a rule for this: replace the "u" vowel with an "i" vowel, so you get like 切**り**, 殺**し**, etc. then attach the た after it. However, there are exceptions to this “rule”:
+Don't memorize this table. There are some rules based on what kana row the verb belongs to:
 
-- if the verb ends with ぬ or a voiced kana (ぶ or ぐ) た becomes だ.   
-- if the verb ends with う, つ, or る the “i” stem becomes っ and doubles the following た sound (買う \-\> 買った, etc)  
-- if the verb ends with ぬ, ぶ or む, the “i” stem gets “slurred” and it becomes ん (選ぶ \-\> 選んだ)
+- う, つ, or る become った
+- す becomes した
+- ぶ, む, or ぬ become んだ
+- く and ぐ become respectively いた and いだ
 
 There are also a couple of verbs with a funny irregular conjugation, for example 問う becomes 問うた. There are only a few of them that behave like this (乞う \-\> 乞うた being another one). You don’t need to memorize these, just be aware they exist, they are not very common.
 

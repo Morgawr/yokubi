@@ -14,7 +14,7 @@ The て form is made by replacing the past tense た with て. Keep in mind that
 </pre>
 
 <div class="warning">
-The godan verb 行く is an exception and its て form is 行って and <b>not</b> 行きて.
+The godan verb 行く is an exception and its て form is 行って and <b>not</b> 行いて.
 </div>
 
 Adjectives can also have a て form. This is done by turning the い into くて.
