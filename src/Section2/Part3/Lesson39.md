@@ -21,16 +21,6 @@ They are all good people<b>, so</b> I'm sure you'll like them.
 <b>I'm telling you,</b> please don't say that!
 </pre>
 
-そして is an interjection that essentially gives a sense of finality as the last element in a list of sequential statements (like “and in the end…”) or a conclusive reason (“and so...”). It can sound formal.
-
-<pre>
-<b>そして、</b>ついにその日が来た。
-<b>And in the end,</b> that day finally came.
-
-<b>そして、</b>ありがとうございました。
-<b>And so,</b> thank you.
-</pre>
-
 ので acts like から. After nouns and な adjectives it becomes なので or ですので. 
 
 There are some nuance differences between から and ので but the gist is that から sounds more like a subjective opinion and ので feels more objective. For this reason, in polite contexts から can come across as pushy and ので is often preferred.
@@ -55,4 +45,14 @@ This usage of で can also show up at the beginning of a statement to continue a
 <pre>
 <b>それで、</b>これからどうするの？  
 <b>So,</b> what are you going to do next?
+</pre>
+
+そして is an interjection that essentially gives a sense of finality as the last element in a list of sequential statements (like “and in the end…”) or a conclusive reason (“and so...”). It can sound formal.
+
+<pre>
+<b>そして、</b>ついにその日が来た。
+<b>And in the end,</b> that day finally came.
+
+<b>そして、</b>ありがとうございました。
+<b>And so,</b> thank you.
 </pre>
