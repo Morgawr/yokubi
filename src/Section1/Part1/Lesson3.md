@@ -27,7 +27,7 @@ As introduced in [Lesson 0](./Lesson0.md), it is more common to first introduce 
 サカナ<b>は</b>ネコ<b>が</b>食べる
 The fish, a cat eats it.
 
-ネコ<b>は</b>サカナ<b>を</b>食べる.
+ネコ<b>は</b>サカナ<b>を</b>食べる
 The cat, it eats a fish.
 </pre>
 
