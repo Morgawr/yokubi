@@ -10,7 +10,7 @@ The project is licensed under the Creative Commons By-Attribution 4.0 license.
 
 See [this link](https://creativecommons.org/licenses/by/4.0/) for more details ([full text](https://creativecommons.org/licenses/by/4.0/legalcode.txt)).
 
-You are basicallyi freely allowed to:
+You are basically freely allowed to:
 
 - Use
 - Redistribute
