@@ -1,6 +1,6 @@
 # Past verbs
 
-You form the past tense of a verb by attaching た or だ to a specific "stem".
+You form the past tense of a verb by attaching た or だ to a specific "stem."
 
 Stems are important for godan verbs because godan verbs have many stems and often present irregularities.
 
@@ -12,7 +12,7 @@ Stems are important for godan verbs because godan verbs have many stems and ofte
 | 死ぬ       | 死な     | 死に/死ん|
 | 書く       | 書か     | 書き/書い|
 
-Note: “a” form and “i” form aren’t real terms, it’s just an example to show the sound vowel these stem end as. We don’t need to know the Japanese linguistic names of these forms now, but you can look them up if you want. 
+Note: "a" form and "i" form aren’t real terms, it’s just an example to show the sound vowel these stem end as. We don’t need to know the Japanese linguistic names of these forms now, but you can look them up if you want. 
 
 Here's an example of these stems in use:
 

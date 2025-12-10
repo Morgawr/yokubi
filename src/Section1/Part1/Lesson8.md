@@ -15,7 +15,7 @@ Red fire
 
 The reason why い-adjectives are similar to verbs is because they can conjugate. 
 
-To say some noun is/has some quality using い-adjectives, you can just make an “A is B” type of sentence with the adjective directly like this:
+To say some noun is/has some quality using い-adjectives, you can just make an "A is B" type of sentence with the adjective directly like this:
 
 <pre>
 火が赤い

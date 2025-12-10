@@ -24,14 +24,14 @@ Their conjugations are as such
 こい		come!
 </pre>
 
-With する, we can introduce a new class of verbs: the する verbs. In Japanese you can turn a lot of nouns into verbs by simply adding する after them. This is not allowed with all nouns, but a large part of words will show up in the dictionary as “する verb” too. This is especially common between two-kanji words that originate from Chinese. 
+With する, we can introduce a new class of verbs: the する verbs. In Japanese you can turn a lot of nouns into verbs by simply adding する after them. This is not allowed with all nouns, but a large part of words will show up in the dictionary as "する verb" too. This is especially common between two-kanji words that originate from Chinese. 
 
 <pre>
 料理
 cuisine
 
 料理<b>する</b> 
-to cook (lit: “to do cuisine”)
+to cook (lit: "to do cuisine")
 </pre>
 
 They mostly mean the same as their non-verb construction, but grammatically the noun becomes for all intents and purposes a real verb.
@@ -43,7 +43,7 @@ Consider these sentences
 to study Japanese
 
 日本語の勉強を<b>する</b>
-to study Japanese (lit: “to do the study of Japanese”)
+to study Japanese (lit: "to do the study of Japanese")
 
 *日本語を勉強をする  
 (ungrammatical nonsense)

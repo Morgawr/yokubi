@@ -2,7 +2,7 @@
 
 Japanese has nouns (名詞) and pronouns (代名詞), just like English. Pronouns are less special than in English, and act just like normal nouns most of the time.
 
-Most of the time, Japanese does not distinguish between singular and plural. Nouns and verbs don't have to agree for plurality, person, or gender. Japanese can explicitly refer to a group by attaching certain suffixes to nouns, but none of them are a true plural; they are often used to convey extra information that normal plurals don’t have.
+Most of the time, Japanese does not distinguish between singular and plural. Nouns and verbs don't have to agree for plurality, person, or gender. Japanese can explicitly refer to a group by attaching certain suffixes to nouns, but none of them are a true plural. They are often used to convey extra information that normal plurals don’t have.
 
 Japanese has tons of personal pronouns (me, you, them) that English doesn't, but the demonstrative pronoun system (this, that, these, those) is much less irregular. In addition, Japanese pronouns never change form for cases like English ones do (he vs him). You can just put suffixes on them.
 
@@ -45,4 +45,4 @@ Japanese has prefixes and suffixes just like English. These are different from c
 
 者, pronounced しゃ here, is a suffix. It can act like a piece of a compound word, but can't stand on its own as its own word. When 者 appears on its own in a sentence, it's a different word, and not pronounced しゃ. *Thanks, kanji*.
 
-Some words can have multiple ways they can be read. 明日, meaning "tomorrow", is normally read as あした, but can also be read あす (formal, not rare) or みょうにち (even more formal, much more rare). Watch out for reading variation when you start reading, or you'll be super confused.  
+Some words can have multiple ways they can be read. 明日, meaning "tomorrow," is normally read as あした, but can also be read あす (formal, not rare) or みょうにち (even more formal, much more rare). Watch out for reading variation when you start reading, or you'll be super confused.  

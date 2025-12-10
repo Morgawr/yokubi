@@ -13,7 +13,7 @@ Ichidan: Drop る, add ない
 |見る   | 見ない   | 
 |食べる | 食べない |
 
-Godan: Replace "u" with "a", then add ない
+Godan: Replace "u" with "a," then add ない
 
 | Plain | Negative |
 |-------|----------|
@@ -22,4 +22,4 @@ Godan: Replace "u" with "a", then add ない
 |書**く** | 書**か**ない| 
 |買**う** | 買**わ**ない| 
 
-For godan verbs ending in う, the negative uses わない, not あない. This is that one exception mentioned earlier.  
+For godan verbs ending in う, the negative uses わない, not あない. This is that one exception mentioned earlier.
