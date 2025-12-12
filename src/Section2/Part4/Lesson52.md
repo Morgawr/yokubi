@@ -48,13 +48,13 @@ Parallel to かい, there is also だい. The vibes are pretty much the same, bu
 What are you guys going to do from now on?
 </pre>
 
-じゃない can also be used to ask confirmation questions. Yes, when attached to nouns, it's identical to normal "is not". No, there's no way around it. If you are lucky, there will be a question mark after it.
+じゃない can also be used to ask confirmation questions. Yes, when attached to nouns, it's identical to normal "is not." No, there's no way around it. If you are lucky, there will be a question mark after it.
 
 <pre>
 いい<b>じゃない</b>
 It's fine, isn't it?
 </pre>
 
-Note how adding a copula after verbs and い adjectives is technically incorrect but this type of じゃない lives on its own and can show up after them. It’s not negating the predicate, it’s just adding a negative question nuance (“isn’t it?”) and behaves like a sentence-ending particle.
+Note how adding a copula after verbs and い adjectives is technically incorrect but this type of じゃない lives on its own and can show up after them. It’s not negating the predicate, it’s just adding a negative question nuance ("isn’t it?") and behaves like a sentence-ending particle.
 
 じゃん is a casual contraction of じゃない

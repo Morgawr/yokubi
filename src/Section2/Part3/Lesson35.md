@@ -1,6 +1,6 @@
 # Generic nouns and nominalization with 事, 物, ところ, and の
 
-事(こと) and 物(もの) both mean "thing". 事 is generally used for intangible things like actions or states, and 物 is generally used for tangible things like objects. Grammatically, they are nouns, so just like any other noun they can be modified by verbs and adjectives.
+事(こと) and 物(もの) both mean "thing." 事 is generally used for intangible things like actions or states, and 物 is generally used for tangible things like objects. Grammatically, they are nouns, so just like any other noun they can be modified by verbs and adjectives.
 
 <pre>
 あ、いい<b>こと</b>考えた
@@ -10,11 +10,11 @@ Ah, I just thought about something good
 I want to eat something tasty
 </pre>
 
-所(ところ) is a word that means "place". It is used in similar patterns, including ones about intangible places like moments in time or progress, and aspects of an entity. It is often contracted to とこ. 
+所(ところ) is a word that means "place." It is used in similar patterns, including ones about intangible places like moments in time or progress, and aspects of an entity. It is often contracted to とこ. 
 
 <pre>
 ちょうどいい<b>ところ</b>に来ました。
-You came just at the right moment. (moment = “place” in time)
+You came just at the right moment. (moment = "place" in time)
 
 やれる<b>とこ</b>までやってみよう。
 Let’s keep going as far as we can (lit. let’s try to do it for as long as we are able to do it)
@@ -41,7 +41,7 @@ Another one is \<verb\>たことがある which literally means something like "
 I <b>have</b> heard of that <b>before</b> somewhere.
 </pre>
 
-こと in particular is often used to nominalize verbs. We do a similar thing in English with the ‘ing’ construction: “To play soccer” is an action, but “the act of play**ing** soccer” is a(n abstract) thing.
+こと in particular is often used to nominalize verbs. We do a similar thing in English with the ‘ing’ construction: "To play soccer" is an action, but "the act of play**ing** soccer" is a(n abstract) thing.
 
 In Japanese we can also use の to achieve a similar result. There are some instances where こと and の cannot replace each other, but for the most part their usage is very similar when nominalizing actions.
 

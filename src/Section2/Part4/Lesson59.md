@@ -7,14 +7,14 @@ The exclamatory だって appears in front of a sentence and is used like an adv
 <pre>
 「早く宿題しなさい！」
 「<b>だって</b>、つかれてるんだもん」
-“Hurry up and do your homework!”
-“<b>But</b> I’m tired…”
+"Hurry up and do your homework!"
+"<b>But</b> I’m tired…"
 
 <b>だって</b>おかしいじゃないですか。
 <b>I mean,</b> don’t you find it weird?
 </pre>
 
-The other だって is a more casual version of も/でも when used after nouns in the meaning of “even”. 
+The other だって is a more casual version of も/でも when used after nouns in the meaning of "even." 
 
 <pre>
 そんなことは俺<b>だって</b>分かっている。

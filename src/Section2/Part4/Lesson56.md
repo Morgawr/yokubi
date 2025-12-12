@@ -2,14 +2,14 @@
 
 We briefly discussed the difference between なくて and ないで in [Lesson 11](../../Section1/Part1/Lesson11.md). Let's dig a bit deeper into it.
 
-When we make a verb or い adjective into the なくて form, this behaves like a usual て conjunctive form (“do X, and…”). It is common in this usage to imply some cause \-\> effect sequence (“I didn’t do X, and that is why Y happened”) although not strictly required. 
+When we make a verb or い adjective into the なくて form, this behaves like a usual て conjunctive form ("do X, and…"). It is common in this usage to imply some cause \-\> effect sequence ("I didn’t do X, and that is why Y happened") although not strictly required. 
 
 <pre>
 お役に立て<b>なくて</b>すみません。  
-I am sorry I <b>was not</b> helpful (lit. “I was not helpful <b>and so</b> I am sorry”)
+I am sorry I <b>was not</b> helpful (lit. "I was not helpful <b>and so</b> I am sorry")
 </pre>
 
-We can also make the negative with ないで instead, however in contrast with なくて, this usage often implies a manner or state in which the following action is being done. You can think of the statement before ないで to become an “adverb” to the statement after it.
+We can also make the negative with ないで instead, however in contrast with なくて, this usage often implies a manner or state in which the following action is being done. You can think of the statement before ないで to become an "adverb" to the statement after it.
 
 <pre>
 もしかして、食べ<b>ないで</b>待っていたのか

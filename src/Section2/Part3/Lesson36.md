@@ -22,7 +22,7 @@ I ate taiyaki, fish, and apples.
 
 As already mentioned, the last と is optional and usually dropped.
 
-か can be used to provide alternatives. It is closer to “or” than “and” although the distinction is sometimes blurry.
+か can be used to provide alternatives. It is closer to "or" than "and" although the distinction is sometimes blurry.
 
 <pre>
 スプーン<b>か</b>フォークで食べる。
@@ -55,7 +55,7 @@ Are you perhaps dating? (or something like that)
 
 If the list is too long (more than 2-3 elements), it’s common to use commas to separate the elements in the middle without using particles.
 
-など is not technically a listing particle, but rather some filler particle that sounds like using "etc" or “and such” in English. It implies the notion of a list of elements open to more similar stuff. Its meaning is similar to using a single や or とか to state that more examples are implied but not directly stated.
+など is not technically a listing particle, but rather some filler particle that sounds like using "etc" or "and such" in English. It implies the notion of a list of elements open to more similar stuff. Its meaning is similar to using a single や or とか to state that more examples are implied but not directly stated.
 
 <pre>
 完璧な人間<b>など</b>、存在しない。

@@ -77,7 +77,7 @@ There are many more particles like these and covering all of them is an unrealis
 
 A lot of these particles can also be chained together (よ \+ ね \-\> よね) and there is an implicit order of precedence (ねよ is wrong, よね is correct). We won’t be covering them but just be aware that they assume a meaning that means more than just the sum of its parts. All vibes, of course.
 
-One last note to mention is the role of だ after nouns and な-adjectives at the end of sentences before attaching particles. The “proper” way in Japanese is to use だ (or です) if the sentence ends with a noun or な-adjective, and then add the particle right after:
+One last note to mention is the role of だ after nouns and な-adjectives at the end of sentences before attaching particles. The "proper" way in Japanese is to use だ (or です) if the sentence ends with a noun or な-adjective, and then add the particle right after:
 
 <pre>
 元気<b>だ</b>よ
