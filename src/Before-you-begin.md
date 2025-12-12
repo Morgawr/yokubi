@@ -33,7 +33,7 @@ The most efficient way to learn vocabulary is to start [picking up words from me
 
 If you want to speak Japanese, you must consume audible spoken Japanese, otherwise you'll sound unnatural. It doesn't matter if it's anime or news or living in Japan, you just have to consume it in the spoken unwritten form. This can come after you learn how to read, but you should passively expose yourself to it (with anything: visual novels, music, anime, etc) as early as possible, otherwise it'll take a long time for your brain to pick up on nuanced sound differences, like how Japanese people need to be trained before they can tell apart L and R. If you spend most of your time reading and ignore the spoken language, you can also acquire unnatural pronunciation and pitch accent that might be harder to fix later.
 
-## “Help\!”
+## "Help\!"
 
 Don't sweat it. Try to find a way to use this guide in a nice low stress way. Don't angst out about something being hard. Some things just take time.
 

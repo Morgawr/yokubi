@@ -1,6 +1,6 @@
 # Adversatives with が, けど, しかし, and ても/でも
 
-Unrelated to the **subject marker** が, the **conjunction** が states that, even though the former statement is true, the latter statement is also true. With が, both statements are independent clauses. Often, but not always, the second statement is in contrast with the first statement. This is commonly translated as “but” or “although”, but there are cases where it’s simply just an “and” and there is no contrast at all.
+Unrelated to the **subject marker** が, the **conjunction** が states that, even though the former statement is true, the latter statement is also true. With が, both statements are independent clauses. Often, but not always, the second statement is in contrast with the first statement. This is commonly translated as "but" or "although," but there are cases where it’s simply just an "and" and there is no contrast at all.
 
 <pre>
 少し早い<b>ですが</b>、おめでとうございます。
@@ -23,11 +23,11 @@ I tried thinking about it for a bit but I couldn’t come up with anything.
 - If the entire sentence is in polite form, use ですが
 - Ending a statement with polite form but using けど in the middle is common, but can come across as unnatural if the politeness level isn’t appropriate
 
-A very common usage of が/けど is to introduce something as a topic in an indirect manner. In this usage it does not have a nuance of adversative (“but”). It is simply introducing something before talking about it. It is common to see this usage with the explanatory の particle like なんだけど or なんですが:
+A very common usage of が/けど is to introduce something as a topic in an indirect manner. In this usage it does not have a nuance of adversative ("but"). It is simply introducing something before talking about it. It is common to see this usage with the explanatory の particle like なんだけど or なんですが:
 
 <pre>
 「もしもし、ネミアちゃん？　俺<b>だけど</b>、どうしたの？」
-(on the phone) “Hello, Nemia? <b>It’s me</b>, what happened?”
+(on the phone) "Hello, Nemia? <b>It’s me</b>, what happened?"
 </pre>
 
 This usage is very common when easing the listener into a request or question you have for them:
@@ -46,7 +46,7 @@ This type of phrase is so common that in many situations the speaker doesn’t e
 
 けど can also show up as けれど and けれども. They are *mostly* the same, but the longer it is, the more formal it sounds.
 
-しかし is an interjection. It sounds formal. English speakers tend to overuse this because it resembles how we use “but” at the beginning of sentences in our language but in Japanese it is not that common.
+しかし is an interjection. It sounds formal. English speakers tend to overuse this because it resembles how we use "but" at the beginning of sentences in our language but in Japanese it is not that common.
 
 <pre>
 <b>しかし</b>、知らなかった。

@@ -47,7 +47,7 @@ Did something happen? (lit. Was something there?)
 
 Note how with question words + か it is common to drop the が particle after them (何かが -> 何か), possibly because it is easier to pronounce. 
 
-In a similar manner, we can also use も to turn question words into "inclusive/exclusive" nouns. Think about words like “anything” or “nothing” in English. 
+In a similar manner, we can also use も to turn question words into "inclusive/exclusive" nouns. Think about words like "anything" or "nothing" in English. 
 
 |        |                          |
 |--------|--------------------------|
@@ -69,7 +69,7 @@ Have you <b>always</b> been thinking about that?
 
 Note: In case of 誰も used as subject in a non-negative statement, the が cannot be dropped so it becomes 誰もが
 
-There's a logical distinction between "every particular thing" and "any one particular thing". By attaching でも to some of these words, you can give them the "any" sense of "any one particular thing".
+There's a logical distinction between "every particular thing" and "any one particular thing." By attaching でも to some of these words, you can give them the "any" sense of "any one particular thing."
 
 <pre>
 あんたは誰<b>でも</b>助けるの？  

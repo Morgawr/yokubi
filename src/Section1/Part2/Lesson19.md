@@ -45,5 +45,5 @@ There are some set phrases and expressions that may use か to ask what seems to
 Ah, I see.
 </pre>
 
-そっか is a casual slurring of そうか, literally “Is that so?”
+そっか is a casual slurring of そうか, literally "Is that so?"
 

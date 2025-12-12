@@ -17,7 +17,7 @@ I originally tried to keep track of all the changes, both minor and major, with 
 #### Major Changes
 
 - Lessons have been split into individual pages under an mdbook format rather than a single standalone web page. This makes it easier to browse and share individual lessons with other learners.
-- Dropped words like “one form” and “five forms” in favor of ichidan and godan terminology for verbs
+- Dropped words like "one form" and "five forms" in favor of ichidan and godan terminology for verbs
 - A few lessons and grammar points have been split into separate lessons. Sakubi has 54 lessons. Yokubi has 63. 
 - Added a new lesson on negative state of being
 - Added a lesson 0 on the anatomy of Japanese sentences
