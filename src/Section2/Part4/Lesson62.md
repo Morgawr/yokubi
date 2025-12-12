@@ -47,4 +47,3 @@ Verb + 時 behaves differently depending on the tense of the verbs that come in 
 目が覚め<b>た時</b>、俺は知らない場所にいた。
 <b>When</b> I woke up, I found myself in an unknown place.
 </pre>
-

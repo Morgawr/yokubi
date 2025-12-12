@@ -43,4 +43,3 @@ When implied by context, at the end of a statement, the part after the condition
 冷めないうちに食べ<b>ないと</b>。
 You <b>must</b> eat before it gets cold.
 </pre>
-

@@ -76,4 +76,3 @@ This is often used to give recommendations or suggestions like "before X happens
 冷めない<b>うちに</b>食べましょう。
 Let’s eat <b>before</b> it gets cold. (lit. let’s eat while it is not cold)
 </pre>
-

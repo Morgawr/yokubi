@@ -57,4 +57,4 @@ It's fine, isn't it?
 
 Note how adding a copula after verbs and い adjectives is technically incorrect but this type of じゃない lives on its own and can show up after them. It’s not negating the predicate, it’s just adding a negative question nuance ("isn’t it?") and behaves like a sentence-ending particle.
 
-じゃん is a casual contraction of じゃない
+じゃん is a casual contraction of じゃない.

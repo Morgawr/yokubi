@@ -73,4 +73,3 @@ It can also be used to provide emphasis by repetition in some set expressions:
 木という木
 Every single tree
 </pre>
-

@@ -56,4 +56,3 @@ I like sing<b>ing</b> songs
 赤い<b>の</b>はいいよ
 The red <b>one</b> is okay.
 </pre>
-

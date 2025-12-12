@@ -74,4 +74,3 @@ She looked like she wanted to know.
 後ろから、遠慮<b>がち</b>に声が掛けられた。
 I was called hesitantly by a voice from behind.
 </pre>
-
