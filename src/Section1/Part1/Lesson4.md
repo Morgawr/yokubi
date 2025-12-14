@@ -29,6 +29,6 @@ Ichidan verbs always end in る
 食べる	負ける	変える
 </pre>
 
-Japanese verb conjugation likes to pile words together, and you end up with long strings of verbs like 見られたくなかった. In future lessons, we start learning the logic behind these long piles of conjugations. It will become easier and easier to break them down the longer you get exposed to the language so don’t worry about it.
+Japanese verb conjugation likes to pile words together, and you end up with long strings of verbs like 見られたくなかった. In future lessons, we start learning the logic behind these long piles of conjugations. It will become easier and easier to break them down the longer you get exposed to the language so don't worry about it.
 
 This lesson is just establishing the basics needed to understand what we're going to look at in later lessons.

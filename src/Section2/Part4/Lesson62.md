@@ -41,7 +41,7 @@ I said that <b>before</b>.
 <b>As</b> I was thinking about that, I heard a loud voice around the entrance of the inn.
 </pre>
 
-Verb + 時 behaves differently depending on the tense of the verbs that come in the statement before and after it. There are various rules but in general if the verb before 時 is in past tense, it means that the action after 時 happens as the action before it has already been completed. Don’t try to memorize these rules though, just learn to recognize them as you go.
+Verb + 時 behaves differently depending on the tense of the verbs that come in the statement before and after it. There are various rules but in general if the verb before 時 is in past tense, it means that the action after 時 happens as the action before it has already been completed. Don't try to memorize these rules though, just learn to recognize them as you go.
 
 <pre>
 目が覚め<b>た時</b>、俺は知らない場所にいた。

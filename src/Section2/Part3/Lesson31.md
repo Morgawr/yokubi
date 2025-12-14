@@ -6,13 +6,13 @@ Japanese has "true" adverbs (副詞) that can be used with no special particle o
 
 <pre>
 <b>まったく</b>意味がわからない
-I <b>really</b> don’t get it
+I <b>really</b> don't get it
 
 <b>全然</b>ダメだった
 It was <b>totally</b> no use
 </pre>
 
-These two examples use "true" adverbs. If we make the first sentence 意味が**まったく**わからない nothing will change. These words may sometimes resemble nouns, but the key difference is that they are not marked by a particle. Sometimes they *also* might work as nouns too. Special words like counter words are also adverbs. We’ll read more about counters in a later lesson. 
+These two examples use "true" adverbs. If we make the first sentence 意味が**まったく**わからない nothing will change. These words may sometimes resemble nouns, but the key difference is that they are not marked by a particle. Sometimes they *also* might work as nouns too. Special words like counter words are also adverbs. We'll read more about counters in a later lesson. 
 
 In addition to these "true" adverbs, there are also other types that use special conjugations or particles.
 

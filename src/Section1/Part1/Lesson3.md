@@ -1,6 +1,6 @@
 # Particles and grammatical case
 
-Let’s look at more complex "A does B" type of statements. We will introduce verbs and conjugations in a later lesson, so take the example sentences used here just as a general guideline, don’t try to break them down.
+Let's look at more complex "A does B" type of statements. We will introduce verbs and conjugations in a later lesson, so take the example sentences used here just as a general guideline, don't try to break them down.
 
 To understand "A does B" sentences, we first need to introduce "particles" and the concept of loose word ordering. 
 
@@ -8,9 +8,9 @@ Japanese uses "particles" (助詞), something similar to prepositions, to define
 
 In English, we use word order to understand what role each word has in a sentence: subject, verb, object. 
 
-These roles are called "cases," and each role is a specific "case." Japanese uses particles to indicate these roles, that’s why they are often called "case-marking particles." We say a particle "marks” a role when we want to say that the word it is attached to assumes said role in the sentence.
+These roles are called "cases," and each role is a specific "case." Japanese uses particles to indicate these roles, that's why they are often called "case-marking particles." We say a particle "marks” a role when we want to say that the word it is attached to assumes said role in the sentence.
 
-There's a default word order, and sometimes particles can even be omitted if the meaning can be inferred from context, but in general particles are the norm. Some words can also exist "freely" in a sentence without particles, we’ll take a look at them in a later lesson. 
+There's a default word order, and sometimes particles can even be omitted if the meaning can be inferred from context, but in general particles are the norm. Some words can also exist "freely" in a sentence without particles, we'll take a look at them in a later lesson. 
 
 Remember: these translations are only for demonstration. The sentences and translations are only here for illustration, not instruction. Due to Japanese not being explicit with plurals, a lot of these sentences can apply to one or a multitude of things, as explained in [Lesson 2](./Lesson2.md)
 
@@ -43,7 +43,7 @@ Cats are the ones that eat fish.
 Cats eat fish. 
 </pre>
 
-English uses articles and funny sentence patterns for this kind of focus, but Japanese needs to rely on particles, because the order doesn’t matter grammatically. 
+English uses articles and funny sentence patterns for this kind of focus, but Japanese needs to rely on particles, because the order doesn't matter grammatically. 
 
 Another difference is that the topic は is often assumed to be something that has already been introduced in a conversation (similar to "the" vs "a" in English), or something that is universally understood as a general statement. 
 

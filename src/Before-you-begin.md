@@ -25,7 +25,7 @@ You shouldn't spend a week on each lesson. In fact, one new lesson a day might b
 
 Every single main lesson in this guide covers basic grammar. You should read the entire thing as quickly as possible. It's important to get stuff in your head sooner rather than later. It gives it time to grow, subconsciously, and even if you didn't feel like you learned it the first time, it makes it easier to remember it for good next time. Just don't get stuck reviewing it forever.
 
-After you get far enough in this guide, you should start trying to consume Japanese content. Especially reading. This guide will tell you when it’s a good time to start, but if you want to try earlier you don’t need to wait.
+After you get far enough in this guide, you should start trying to consume Japanese content. Especially reading. This guide will tell you when it's a good time to start, but if you want to try earlier you don't need to wait.
 
 Trying to read on a regular basis, even if you can't do it for more than five minutes, tells you exactly what your weak points are, and gives you a sense of progress. This guide exposes you to grammar to let you break down things, but you need to consume real Japanese to turn that exposure into acquisition.
 

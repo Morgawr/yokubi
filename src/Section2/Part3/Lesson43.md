@@ -8,13 +8,13 @@ One of them, is the な adjective suffix みたい. It looks like the たい for
 
 <pre>
 あの人、日本人<b>みたい</b>
-That person, it seems like he’s Japanese / He seems Japanese
+That person, it seems like he's Japanese / He seems Japanese
 
 ヒーロー<b>みたいな</b>人
 Person that resembles a hero
 </pre>
 
-While みたい is for all intents and purposes a な adjective, when used adverbially it sometimes conjugates like an い adjective. This is seen as casual/slang, but you’ll see it often enough in Japanese media that it is good to be aware of it.
+While みたい is for all intents and purposes a な adjective, when used adverbially it sometimes conjugates like an い adjective. This is seen as casual/slang, but you'll see it often enough in Japanese media that it is good to be aware of it.
 
 <pre>
 子供<b>みたいに</b>ブランコに乗っている

@@ -6,20 +6,20 @@ Basically, もう means that there's a change of state from the statement being 
 
 <pre>
 <b>もう</b>こんな時間だ
-It’s this late! (lit. It’s already this time)
+It's this late! (lit. It's already this time)
 
 <b>もう</b>食べたよ
 I already ate
 
 <b>もう</b>食べないの？
-You won’t eat anymore?
+You won't eat anymore?
 </pre>
 
 もう can also appear as an emphatic expression of frustration
 
 <pre>
 <b>もう</b>いいよ
-I’ve had enough (lit. it’s already at a sufficient level)
+I've had enough (lit. it's already at a sufficient level)
 
 <b>もう</b>！
 (angry frustrated noises)
@@ -29,7 +29,7 @@ In statements about the near future, もう can mean "soon" instead. This usuall
 
 <pre>
 どうやら<b>もう</b>来るみたい
-Well it seems like he’ll arrive soon
+Well it seems like he'll arrive soon
 </pre>
 
 Another use of もう expresses "more" of an amount.
@@ -49,7 +49,7 @@ A bit more
 Are you still going to eat (more)? / Are you going to continue eating?
 
 <b>まだ</b>負けないな！
-I haven’t lost yet!
+I haven't lost yet!
 
 <b>まだまだ</b>
 Not yet!

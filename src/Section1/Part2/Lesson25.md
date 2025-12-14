@@ -1,6 +1,6 @@
 # Potential form and できる
 
-The potential form exists so that people can say that something "can be done." For godan verbs, the u is replaced with an e, then added る. So "u" \-\> "eru." For ichidan verbs, it is identical to the passive conjugation. Yes, that is confusing. It’s so confusing that sometimes you might come across sentences where it’s unclear/intentionally ambiguous whether or not an ichidan verb is used in passive or potential form. You just have to vibe with it.
+The potential form exists so that people can say that something "can be done." For godan verbs, the u is replaced with an e, then added る. So "u" \-\> "eru." For ichidan verbs, it is identical to the passive conjugation. Yes, that is confusing. It's so confusing that sometimes you might come across sentences where it's unclear/intentionally ambiguous whether or not an ichidan verb is used in passive or potential form. You just have to vibe with it.
 
 <pre>
 食べ<b>られる</b> (or 食べ<b>れる</b> (!))
@@ -16,7 +16,7 @@ Can die
 Can drink
 </pre>
 
-As you have probably noticed, 食べれる is listed as an acceptable variant of 食べられる with a big **!** next to it. It’s common in spoken/colloquial Japanese to shorten ichidan verbs in potential form by removing the ら syllable (this is called ら抜き). It is not "proper" and should not be done in formal situations or in written form, but it is quite common in casual spoken language. It cannot be done with every ichidan verb, but there are no clear rules about which do or do not allow it. It’s up to personal preference, so don’t try to learn this rule. Just be aware it exists and learn to recognize it.
+As you have probably noticed, 食べれる is listed as an acceptable variant of 食べられる with a big **!** next to it. It's common in spoken/colloquial Japanese to shorten ichidan verbs in potential form by removing the ら syllable (this is called ら抜き). It is not "proper" and should not be done in formal situations or in written form, but it is quite common in casual spoken language. It cannot be done with every ichidan verb, but there are no clear rules about which do or do not allow it. It's up to personal preference, so don't try to learn this rule. Just be aware it exists and learn to recognize it.
 
 For the irregular verb する, we use the alternative verb できる as its potential variant. This is an exception, so it just needs to be learned as such. 
 
@@ -27,7 +27,7 @@ I <b>could not</b> study yesterday
 
 To make the potential/passive duality even more confusing, we need to talk about a special quirk that potential verbs carry in Japanese that English does not have.
 
-When it comes to potential forms, the notion of a "subject" and "object" in transitive verbs can become grammatically unclear. Let’s look at an example:
+When it comes to potential forms, the notion of a "subject" and "object" in transitive verbs can become grammatically unclear. Let's look at an example:
 
 <pre>
 私<b>は</b>ピザ<b>を</b>食べる

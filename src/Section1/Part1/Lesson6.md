@@ -11,7 +11,7 @@ Someone knocked on my door from outside.
 
 The English translation doesn't even have any marking all the nouns. Particles make things easier, at least for a language learner.
 
-The subject can be dropped in Japanese if it's understood or not important. A lot of example sentences will have a lack of a clear pronoun, so our translations will just add a random one for the sake of making them readable. Remember that just because an example translation may say "he" instead of "she" it doesn’t mean that it is clear in Japanese.
+The subject can be dropped in Japanese if it's understood or not important. A lot of example sentences will have a lack of a clear pronoun, so our translations will just add a random one for the sake of making them readable. Remember that just because an example translation may say "he" instead of "she" it doesn't mean that it is clear in Japanese.
 
 へ translates well as "to" or "toward" in most situations, including abstract ones. In the previous example it also works as "on." Translations can be fairly loose.
 
@@ -35,7 +35,7 @@ Come <b>to</b> school. (target of direction)
 I woke up <b>at</b> 5 in the morning. (point in time)
 </pre>
 
-Be aware that these are all loose rules. In reality, the kind of particle that is the most appropriate to use depends on the specific verb used in the sentence. General rules or explanations can help you remember these situations, but the only real way to know for sure is through experience. You’ll have to remember which verb goes with which particle as it often will feel rather arbitrary. 
+Be aware that these are all loose rules. In reality, the kind of particle that is the most appropriate to use depends on the specific verb used in the sentence. General rules or explanations can help you remember these situations, but the only real way to know for sure is through experience. You'll have to remember which verb goes with which particle as it often will feel rather arbitrary. 
 
 に also has many other uses that don't mark location, direction, or time. It can act as an indirect object or target of an action. An indirect object is something relevant to or affected by a verb, but not part of the verb's core meaning
 

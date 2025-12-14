@@ -1,6 +1,6 @@
 # Irregular and する verbs
 
-Now that we've covered the most common verb stems, we can cover the irregular verbs. Japanese only has two major irregular verbs, but they're very common. Their conjugations are completely irregular. Note that there are some other exceptions and corner cases in some other verbs (we’ve already seen 問うた), but these two are completely different and live in an entire class of their own.
+Now that we've covered the most common verb stems, we can cover the irregular verbs. Japanese only has two major irregular verbs, but they're very common. Their conjugations are completely irregular. Note that there are some other exceptions and corner cases in some other verbs (we've already seen 問うた), but these two are completely different and live in an entire class of their own.
 
 <pre>
 する
@@ -49,6 +49,6 @@ to study Japanese (lit: "to do the study of Japanese")
 (ungrammatical nonsense)
 </pre>
 
-The first treats 勉強 as a verb, and 日本語を as its object. The second considers 勉強 a noun (modified by 日本語) and it is the object of the individual verb する. The third sentence is ungrammatical, because it tries to force two disconnected objects and simply doesn’t work.
+The first treats 勉強 as a verb, and 日本語を as its object. The second considers 勉強 a noun (modified by 日本語) and it is the object of the individual verb する. The third sentence is ungrammatical, because it tries to force two disconnected objects and simply doesn't work.
 
 While we can translate the first and second sentences in two slightly different ways to accentuate the difference between 勉強する and 勉強をする, realistically the meaning is pretty much the same.

@@ -1,6 +1,6 @@
 # い-adjectives
 
-Japanese has two main categories of adjectives. Don't worry, they are not as complicated as the ones for verbs. It’s actually quite straightforward. 
+Japanese has two main categories of adjectives. Don't worry, they are not as complicated as the ones for verbs. It's actually quite straightforward. 
 
 These two categories are い-adjectives (形容詞) and な-adjectives (形容動詞). 
 
@@ -30,7 +30,7 @@ You **must not** add だ after it:
 
 This is **very** wrong and not worth providing a translation.
 
-However, attaching です is okay here, but it doesn’t have the role of a copula in this usage. It just adds politeness and doesn’t carry any meaning whatsoever. This is the first major way that だ and です are different. When it's not attached to a noun, です is just a politeness marker.
+However, attaching です is okay here, but it doesn't have the role of a copula in this usage. It just adds politeness and doesn't carry any meaning whatsoever. This is the first major way that だ and です are different. When it's not attached to a noun, です is just a politeness marker.
 
 <pre>
 火が赤い

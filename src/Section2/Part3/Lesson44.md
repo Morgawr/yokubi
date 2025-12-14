@@ -7,23 +7,23 @@
 Inconveniencing others too much <b>is not good</b>. (lit: "if you inconvenience others too much, it is not good")
 
 日本だっ<b>たらダメ</b>なんだろうけど、ここでは大丈夫みたい。  
-Had it been Japan it <b>would’ve been bad</b>, but here it seems fine.
+Had it been Japan it <b>would've been bad</b>, but here it seems fine.
 </pre>
 
-ならない and いけない are similar to だめ, but they feel stronger and have an implication that something is prohibited, either by someone’s decision or social expectations.
+ならない and いけない are similar to だめ, but they feel stronger and have an implication that something is prohibited, either by someone's decision or social expectations.
 
 <pre>
 他人のものを、盗ん<b>ではならない</b>。
-Stealing other people’s stuff <b>is unacceptable</b>. (lit: "it is unbecoming")
+Stealing other people's stuff <b>is unacceptable</b>. (lit: "it is unbecoming")
 </pre>
 
 All three of these "not good" groups (だめ, ならない, いけない) are often used with a negative conditional statement (〜なければならない, 〜なくてはいけない, 〜ないとダメ, and any other similar combination) to convey a meaning of "must do." Since Aてはならない means "must not do A," then logically (not A)てはならない means "must not *not* do A" hence "must do A."
 
-This is how you say "must do X" or "have to do X" in Japanese. It sounds like a mouthful, but you’ll get used to it in no time.
+This is how you say "must do X" or "have to do X" in Japanese. It sounds like a mouthful, but you'll get used to it in no time.
 
 <pre>
 やら<b>なければならない</b>ことはたくさんある。
-There are a lot of things <b>I must do</b>. (lit: "things that if I don’t do it won’t be acceptable")
+There are a lot of things <b>I must do</b>. (lit: "things that if I don't do it won't be acceptable")
 </pre>
 
 <div class="warning">

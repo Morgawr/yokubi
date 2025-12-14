@@ -28,7 +28,7 @@ The dead bodies of people who were killed.
 The fish was eaten.
 </pre>
 
-The person who performs an action is the "agent." If you want to mention the agent of a passive verb, you use に or によって, but for certain verbs から is acceptable too. There are some rules for when you should use に or によって, but you don’t need to look them up or memorize them now. Just recognize the pattern when you see it.
+The person who performs an action is the "agent." If you want to mention the agent of a passive verb, you use に or によって, but for certain verbs から is acceptable too. There are some rules for when you should use に or によって, but you don't need to look them up or memorize them now. Just recognize the pattern when you see it.
 
 <pre>
 魚が猫<b>に</b>食べられた

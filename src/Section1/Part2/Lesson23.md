@@ -2,7 +2,7 @@
 
 Demonstratives are words that mean things like "this," "that," etc.
 
-Japanese is different from English on this front in two ways. First, its demonstratives are much more regular, and second, its demonstratives map to three "locations" instead of two. This is easier shown than explained, so let’s look at examples:
+Japanese is different from English on this front in two ways. First, its demonstratives are much more regular, and second, its demonstratives map to three "locations" instead of two. This is easier shown than explained, so let's look at examples:
 
 <pre>
 <b>こ</b>れ
@@ -32,11 +32,11 @@ What is <b>that</b>? (pointing at something away from both you and the listener)
 
 The above four words are "demonstrative pronouns." Two of them translate into English as "that," but they have different connotations in Japanese. それ is for things that are near the listener. あれ is for things that are far from both the speaker and the listener.
 
-In case you hadn’t noticed the pattern, as this lesson title points out, we sometimes call them all together こそあど because they differ between them only by the first kana syllable.
+In case you hadn't noticed the pattern, as this lesson title points out, we sometimes call them all together こそあど because they differ between them only by the first kana syllable.
 
 Even though the split between the two "that" exists, the way these words are used is very similar to how they are used in English.
 
-There is another group of very similar こそあど demonstratives that grammatically work differently, but when translated into English they are hard to explain, so let’s look at examples first:
+There is another group of very similar こそあど demonstratives that grammatically work differently, but when translated into English they are hard to explain, so let's look at examples first:
 
 <pre>
 この&lt;noun&gt;
@@ -58,7 +58,7 @@ Imagine you are holding a book and you want to say "This is a book." "Book" is t
 
 The same applies for all the other こそあど words with の. 
 
-There are many other words that fall into the こそあど type of structure. We won’t cover all of them here, but they are usually fairly regular insofar as they all follow the rule:
+There are many other words that fall into the こそあど type of structure. We won't cover all of them here, but they are usually fairly regular insofar as they all follow the rule:
 
 <pre>
 こ = close to the speaker  
@@ -67,7 +67,7 @@ There are many other words that fall into the こそあど type of structure. We
 ど = question word
 </pre>
 
-あ is the only row that has slightly irregular pronunciation, but you’ll know when you come across them. Here are some examples:
+あ is the only row that has slightly irregular pronunciation, but you'll know when you come across them. Here are some examples:
 
 |                   |                    |            |         |
 |-------------------|--------------------|------------|---------|
@@ -95,6 +95,6 @@ There are many other words that fall into the こそあど type of structure. We
 | こいつ    | そいつ    | あいつ     | どいつ     |
 | this dude | that dude | that dude  | which dude |
 
-Note: The こちら group can also be used as a polite way to refer to people in a polite setting, because it adds indirectness. On the other hand, the こいつ group can often sound rude so don’t call people こいつ.
+Note: The こちら group can also be used as a polite way to refer to people in a polite setting, because it adds indirectness. On the other hand, the こいつ group can often sound rude so don't call people こいつ.
 
-Just like in English, physical distance is not the only determiner for these words. They can also be used to refer to something that is distant in time. They can even be affected by the degree of familiarity on the topic between the speaker and the listener. Something mentioned earlier in a conversation might be referred to as あの\<thing\>, but something that has just been mentioned is more likely to be その\<thing\> instead. Just like in English we sometimes don’t know if we should say "this" or "that," even in Japanese people don’t always agree so the distinction is not always strict in these situations.  
+Just like in English, physical distance is not the only determiner for these words. They can also be used to refer to something that is distant in time. They can even be affected by the degree of familiarity on the topic between the speaker and the listener. Something mentioned earlier in a conversation might be referred to as あの\<thing\>, but something that has just been mentioned is more likely to be その\<thing\> instead. Just like in English we sometimes don't know if we should say "this" or "that," even in Japanese people don't always agree so the distinction is not always strict in these situations.  

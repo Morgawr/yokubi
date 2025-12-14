@@ -1,6 +1,6 @@
 # Preamble
 
-This guide will cover most of the grammar needed to understand basic japanese. It’s not going to go into too much detail, and it won't cover much vocabulary. If you are reading this in a browser, install a dictionary lookup extension like [Yomitan](https://yomitan.wiki/) so you can easily look up the words in the example sentences. Some words are basically grammar, though, so they will come up in specific lessons. 
+This guide will cover most of the grammar needed to understand basic japanese. It's not going to go into too much detail, and it won't cover much vocabulary. If you are reading this in a browser, install a dictionary lookup extension like [Yomitan](https://yomitan.wiki/) so you can easily look up the words in the example sentences. Some words are basically grammar, though, so they will come up in specific lessons. 
 
 There are no exercises:
 

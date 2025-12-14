@@ -9,21 +9,21 @@ At the core わけ(だ) states a reason, explanation, fact, logical restatement,
 I see, so that possibility also exists.
 
 それならいくら探しても見つからない<b>わけだ</b>。
-If that’s the case, no matter how hard they search, she won’t be found.
+If that's the case, no matter how hard they search, she won't be found.
 </pre>
 
 わけがない means "there is no way" and implies that something is not even remotely thinkable by the speaker
 
 <pre>
 そんな馬鹿なことがある<b>わけがない</b>。
-<b>There’s no way</b> such a ridiculous thing would exist.
+<b>There's no way</b> such a ridiculous thing would exist.
 </pre>
 
 わけじゃない on the other hand is a roundabout way to negate a situation, circumstance, or logical conclusion.
 
 <pre>
 可能性がない<b>わけじゃない</b>。
-<b>It’s not like</b> there’s no chance.
+<b>It's not like</b> there's no chance.
 </pre>
 
 わけにはいかない means that something is not possible according to general knowledge or social expectations.
@@ -39,10 +39,10 @@ Since わけ is a very strong statement, it is often paired with という in th
 
 <pre>
 こんな<b>はず</b>じゃなかった、こんな<b>はず</b>じゃなかった
-It <b>shouldn’t</b> have been like this, it <b>shouldn’t</b> have been like this
+It <b>shouldn't</b> have been like this, it <b>shouldn't</b> have been like this
 
 さっきまで自分の部屋にいた<b>はず</b>なのに。
-But she <b>should</b>’ve been in her room until a moment ago...
+But she <b>should</b>'ve been in her room until a moment ago...
 
 その場にいた全員がそう思った<b>はず</b>だ。
 Everybody standing there <b>must</b> have thought that.
@@ -55,7 +55,7 @@ Everybody standing there <b>must</b> have thought that.
 <b>It would be good to</b> leave this place.
 
 わからないことは聞く<b>べきだ</b>。
-<b>You should</b> ask about the things you don’t understand.
+<b>You should</b> ask about the things you don't understand.
 </pre>
 
 There are however some situations where using べき isn't always so heavy, especially in questions when asking for someone's wisdom or advice.
@@ -85,7 +85,7 @@ Children <b>should</b> listen to what their parents say.
 
 <pre>
 まだ寝ぼけている<b>かもしれない</b>。
-<b>Maybe</b> she’s still half asleep.
+<b>Maybe</b> she's still half asleep.
 </pre>
 
 かもしれない is often shortened to just かも in casual conversation.

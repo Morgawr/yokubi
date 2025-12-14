@@ -17,7 +17,7 @@ I want to eat something tasty
 You came just at the right moment. (moment = "place" in time)
 
 やれる<b>とこ</b>までやってみよう。
-Let’s keep going as far as we can (lit. let’s try to do it for as long as we are able to do it)
+Let's keep going as far as we can (lit. let's try to do it for as long as we are able to do it)
 
 こういう<b>ところ</b>が彼女のいい<b>ところ</b>だ。
 This aspect of her is what is good (about her)
@@ -29,7 +29,7 @@ These generic nouns are the base of common phrases and expressions like the foll
 
 <pre>
 無理をしなければ、死ぬ<b>こと</b>はないだろう。
-As long as you don’t overdo it, there’s no way you will die. 
+As long as you don't overdo it, there's no way you will die. 
 </pre>
 
 死ぬことはない is literally somehing like 'there is no “will die” event/moment'.
@@ -41,7 +41,7 @@ Another one is \<verb\>たことがある which literally means something like "
 I <b>have</b> heard of that <b>before</b> somewhere.
 </pre>
 
-こと in particular is often used to nominalize verbs. We do a similar thing in English with the ‘ing’ construction: "To play soccer" is an action, but "the act of play**ing** soccer" is a(n abstract) thing.
+こと in particular is often used to nominalize verbs. We do a similar thing in English with the ‘ing' construction: "To play soccer" is an action, but "the act of play**ing** soccer" is a(n abstract) thing.
 
 In Japanese we can also use の to achieve a similar result. There are some instances where こと and の cannot replace each other, but for the most part their usage is very similar when nominalizing actions.
 

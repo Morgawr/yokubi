@@ -17,7 +17,7 @@ It can also be used with negative verbs in the form of ないでください to 
 
 <pre>
 バカなことを言わない<b>でください</b>
-Don’t say stupid things, please
+Don't say stupid things, please
 
 食べ<b>ないで</b>
 Please don't eat.
@@ -30,7 +30,7 @@ Please don't eat.
 Please give me a nikuman
 </pre>
 
-It is worth noting there are other ways to make orders and imperative commands in Japanese. The て(ください) form is rather weak and fairly soft order. It’s closer to a polite request rather than a straight up command. 
+It is worth noting there are other ways to make orders and imperative commands in Japanese. The て(ください) form is rather weak and fairly soft order. It's closer to a polite request rather than a straight up command. 
 
 This brings us to the fourth common verb stem, the imperative form. This is a "true" imperative form, rather than the simple request made by using てください alone. Be aware that the imperative form often sounds rude. 
 

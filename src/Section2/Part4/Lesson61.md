@@ -10,7 +10,7 @@ I remembered an anime I watched <b>when I was</b> a child.
 Oh right, it was <b>around this time</b> last year I guess?
 </pre>
 
-くらい  takes a measure or amount (including time) and makes it approximate. It is completely interchangeable with ぐらい and it is entirely up to speaker’s preference.
+くらい  takes a measure or amount (including time) and makes it approximate. It is completely interchangeable with ぐらい and it is entirely up to speaker's preference.
 
 <pre>
 午後1時<b>ぐらい</b>で大丈夫？
@@ -21,7 +21,7 @@ It can also be used to mean "to the point where" or "to the level where" and not
 
 <pre>
 毎日食べたい<b>くらい</b>美味しかったです
-It was delicious <b>to the point where</b> I’d want to eat it every day.
+It was delicious <b>to the point where</b> I'd want to eat it every day.
 </pre>
 
 When paired with the は particle it gives a nuance of "at least."

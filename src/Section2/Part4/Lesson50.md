@@ -6,7 +6,7 @@ The てみる auxiliary originates from the verb 見る, and can provide some in
 
 <pre>
 食べ<b>てみる</b>
-I'll try to eat it (and see how it goes/see if I like it/see if it’s poisoned, etc)
+I'll try to eat it (and see how it goes/see if I like it/see if it's poisoned, etc)
 
 チョコレートケーキを作っ<b>てみました</b>
 I tried to make chocolate cake.
@@ -23,10 +23,10 @@ Consider the difference between these two sentences:
 
 <pre>
 まずは一度逃げ<b>てみよう</b>
-First, let’s <b>try</b> escaping once.
+First, let's <b>try</b> escaping once.
 
 僕は、逃げ<b>ようとする</b>彼女の手を取った。
 I caught the hand of the girl who was <b>attempting to</b> escape.
 </pre>
 
-The first sentence focuses on the fact that the speaker doesn’t know how their escape attempt will go, but they want to try and see. The second sentence stops the girl from escaping before she even begins to do so. It implies that she <b>attempted</b> to initiate the act of "escaping" but she was unable to follow through with it. 
+The first sentence focuses on the fact that the speaker doesn't know how their escape attempt will go, but they want to try and see. The second sentence stops the girl from escaping before she even begins to do so. It implies that she <b>attempted</b> to initiate the act of "escaping" but she was unable to follow through with it. 

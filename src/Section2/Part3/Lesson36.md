@@ -53,7 +53,7 @@ The problem isn't whether you can fight <b>or</b> not.
 Are you perhaps dating? (or something like that)
 </pre>
 
-If the list is too long (more than 2-3 elements), it’s common to use commas to separate the elements in the middle without using particles.
+If the list is too long (more than 2-3 elements), it's common to use commas to separate the elements in the middle without using particles.
 
 など is not technically a listing particle, but rather some filler particle that sounds like using "etc" or "and such" in English. It implies the notion of a list of elements open to more similar stuff. Its meaning is similar to using a single や or とか to state that more examples are implied but not directly stated.
 

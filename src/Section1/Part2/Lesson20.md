@@ -1,6 +1,6 @@
 # Questions with の and explanatory のだ
 
-Another question particle similar to か is の. Questions asked with の carry a connotation that is quite different from that of those asked with か. We will explain the nuance implication later, let’s focus on the structure first.
+Another question particle similar to か is の. Questions asked with の carry a connotation that is quite different from that of those asked with か. We will explain the nuance implication later, let's focus on the structure first.
 
 To ask questions with の, in casual form you just add の at the end of verbs and い-adjectives, and なの after nouns and な-adjectives (without だ). The question mark is optional.
 
@@ -30,7 +30,7 @@ To ask questions with の, in casual form you just add の at the end of verbs a
 | 魚を食べる | 魚を食べるの？ |
 | I eat fish | You eat fish?  |
 
-In polite form, we just add ですか after the の, even if it’s a verb sentence. This is commonly slurred in speech as んですか instead of のですか
+In polite form, we just add ですか after the の, even if it's a verb sentence. This is commonly slurred in speech as んですか instead of のですか
 
 | Casual         | Polite               |
 |----------------|----------------------|
@@ -39,7 +39,7 @@ In polite form, we just add ですか after the の, even if it’s a verb sente
 | 寒いの？       | 寒いんですか？       |
 | 魚を食べるの？ | 魚を食べるんですか？ |
 
-の can also be used to end statements, rather than questions. In this usage, the intonation should make it clear it’s not a question, but also the structure is slightly different.
+の can also be used to end statements, rather than questions. In this usage, the intonation should make it clear it's not a question, but also the structure is slightly different.
 
 To make の statements, in casual Japanese, you apply the same rule as for の questions, but instead end with のだ (or んだ):
 
@@ -57,7 +57,7 @@ It is cold
 I eat fish
 </pre>
 
-And in polite form it’s the same as with のですか questions, just get rid of the か after です.
+And in polite form it's the same as with のですか questions, just get rid of the か after です.
 
 <pre>
 学生なんです
@@ -69,11 +69,11 @@ And in polite form it’s the same as with のですか questions, just get rid 
 魚を食べるんです
 </pre>
 
-Ending statements with だ can sound stark and often people tend to soften the tone adding よ or ね after んだ in casual statements. We’ll see よ and ね sentence ending particles in a later section.
+Ending statements with だ can sound stark and often people tend to soften the tone adding よ or ね after んだ in casual statements. We'll see よ and ね sentence ending particles in a later section.
 
 You can also end の statements with の directly, without だ, but it comes across as feminine so be careful.
 
-Let’s talk now about the nuance these の questions and statements give.
+Let's talk now about the nuance these の questions and statements give.
 
 At a surface level, both の questions and のだ statements look similar to normal questions and statements without の(だ), but the presence of this の(だ) adds some kind of "explanatory" or "inquisitive" tone to them.
 
@@ -84,7 +84,7 @@ When you ask a question with の？ or んですか？ you are adding some impli
 Is it that Mary is a student?
 </pre>
 
-You may ask this when you come to the conclusion that Mary might be a student due to circumstantial evidence that might have transpired from a conversation you were having but you aren’t certain about. You are seeking some confirmation.
+You may ask this when you come to the conclusion that Mary might be a student due to circumstantial evidence that might have transpired from a conversation you were having but you aren't certain about. You are seeking some confirmation.
 
 <pre>
 猫が好きなんですか？
@@ -93,7 +93,7 @@ Is it so that you like cats?
 
 You may ask this as you see someone playing happily with cats and are seeking some confirmation.
 
-To make it even clearer, let’s compare these two sentences
+To make it even clearer, let's compare these two sentences
 
 <pre>
 何をしてる？
@@ -105,18 +105,18 @@ What are you <i>doing</i>?
 
 Note: the "doing" in the second sentence is stressed in italics to indicate tone in English.
 
-You can imagine the first to be used when asking your friend over the phone what they are up to, just cause you’re curious and are looking for a topic of conversation. However, the second one sounds more inquisitive, maybe even aggressive, and you can imagine using it if you see someone breaking into your car as you catch him red-handed. Like "Dude, wtf are you doing?" You are expecting, even demanding, some explanation.
+You can imagine the first to be used when asking your friend over the phone what they are up to, just cause you're curious and are looking for a topic of conversation. However, the second one sounds more inquisitive, maybe even aggressive, and you can imagine using it if you see someone breaking into your car as you catch him red-handed. Like "Dude, wtf are you doing?" You are expecting, even demanding, some explanation.
 
 In a similar way, when we make statements with an explanatory nuance, we use んだ. Just like questions with の？ are seeking clarification, statements with んだ are providing an explanation or additional information that the speaker wants to make known to the listener.
 
-There are a few usages that are common with んだ but we won’t go over all of them here as it is a very nuanced topic that is hard to explain and beyond the scope of a beginner guide. You will see them used a lot through immersion and exposure. Just be aware of this basic difference:
+There are a few usages that are common with んだ but we won't go over all of them here as it is a very nuanced topic that is hard to explain and beyond the scope of a beginner guide. You will see them used a lot through immersion and exposure. Just be aware of this basic difference:
 
 <pre>
 私は日本人です
 I am Japanese
 
 私は日本人なんです
-Actually, I am Japanese (You didn’t know this, but I am Japanese)
+Actually, I am Japanese (You didn't know this, but I am Japanese)
 </pre>
 
 The former sounds like a simple statement, matter of fact. You are stating something about yourself. The latter, on the other hand, sounds like you are explaining something or trying to clarify a situation. Its specific meaning depends on the context, however the nuance that comes across is that you feel like you need to provide an explanation or clarification by stating that fact.
@@ -151,4 +151,4 @@ Ohh, I see.
 
 It is common to answer questions asked with の with statements that end in のだ. 
 
-Note: Sometimes you may see の questions that end with のだ instead, often with a ？ at the end and the tone will make it clear it’s a question. There is no big difference from a normal の question but it sounds stronger and potentially more aggressive: 何してるんだ？！
+Note: Sometimes you may see の questions that end with のだ instead, often with a ？ at the end and the tone will make it clear it's a question. There is no big difference from a normal の question but it sounds stronger and potentially more aggressive: 何してるんだ？！

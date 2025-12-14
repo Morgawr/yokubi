@@ -16,7 +16,7 @@ I <b>also</b> go to school (I go to other places too, but also school)
 </pre>
 
 <div class="warning">
-While も usually "hides" を, you might come across をも as well. It’s a bit uncommon and not worth thinking about, just don't be surprised when you see it. You can think of it as a more emphatic version.
+While も usually "hides" を, you might come across をも as well. It's a bit uncommon and not worth thinking about, just don't be surprised when you see it. You can think of it as a more emphatic version.
 </div>
 
 も can be used with negative statements. Normally, it includes the given noun in the set of things that the negative statement is true for, but sometimes it does weird things because negation changes how logical inclusion/exclusion works. 
@@ -26,7 +26,7 @@ While も usually "hides" を, you might come across をも as well. It’s a bi
 I won't eat, <b>either</b>. (in addition to other people)
 </pre>
 
-The particle と is also used to provide some "inclusion," but it works very differently from も. It may look similar at an English translation level, but don’t be fooled. They are nothing alike. 
+The particle と is also used to provide some "inclusion," but it works very differently from も. It may look similar at an English translation level, but don't be fooled. They are nothing alike. 
 
 と normally makes a list of things.
 
@@ -55,4 +55,4 @@ To play <b>with</b> everyone
 To play <b>(together) with</b> everyone
 </pre>
 
-In English, the translation is effectively the same, but と in the first sentence implies the subject is playing **with** everyone as an additional group of people (so it’s subject \+ everyone else). In the second sentence, however, the subject is part of the group, and they are playing **as** everyone together ("everyone" includes the subject). It’s a very subtle nuance but it’s good to be aware of it.   
+In English, the translation is effectively the same, but と in the first sentence implies the subject is playing **with** everyone as an additional group of people (so it's subject \+ everyone else). In the second sentence, however, the subject is part of the group, and they are playing **as** everyone together ("everyone" includes the subject). It's a very subtle nuance but it's good to be aware of it.   

@@ -6,7 +6,7 @@ If only it were so simple that we could get by with just one conditional, it'd b
 
 There are four main conditionals: たら, ば, と and なら. They all fall into a spectrum of "if" and "when" and sometimes even "as" (like in "As I woke up, I heard a weird sound outside"). There are actually more ways to make conditional sentences, but these are the main ones for this lesson.
 
-As always, don’t try to memorize this lesson perfectly, just learn to recognize each of the examples when you encounter them and know they roughly mean "if" or "when."
+As always, don't try to memorize this lesson perfectly, just learn to recognize each of the examples when you encounter them and know they roughly mean "if" or "when."
 
 The simplest conditional we will see is the ば form which turns verbs into a condition. The conjugation is formed by changing the u at the end of a verb into an e, then adding ば. Basically, for godan verbs, you replace the u with an e, and for ichidan verbs, you add れ after the stem.
 
@@ -18,7 +18,7 @@ The simplest conditional we will see is the ば form which turns verbs into a co
 Is it okay <b>if</b> I kill this dude?
 </pre>
 
-ば implies that the condition is sufficient for the result to come to happen. It’s a true logical "if." This can even be used for certain requests, like "If you're late, just call and I'll handle everything." However, ば doesn't imply that the condition will eventually happen, so it can’t be used in things like "When you come around, come see me." In narration, it can sometimes mean "X happened, and then Y," but this non-conditional usage is fairly limited and not as common outside of literary works. 
+ば implies that the condition is sufficient for the result to come to happen. It's a true logical "if." This can even be used for certain requests, like "If you're late, just call and I'll handle everything." However, ば doesn't imply that the condition will eventually happen, so it can't be used in things like "When you come around, come see me." In narration, it can sometimes mean "X happened, and then Y," but this non-conditional usage is fairly limited and not as common outside of literary works. 
 
 For the ば conditional of the copula だ, we need to "expand" it into である and conjugate that instead.
 
@@ -34,7 +34,7 @@ For い adjectives we turn the い into ければ:
 If that is okay (with you), please teach me.
 </pre>
 
-たら is another conditional that in some usages is similar to ば. Unlike ば, however, it has a broader scope and nuance of sequential series of actions. It can be used to connect two events in either a purely hypothetical or strictly temporal sequence. It can be "If A happens, then B" but also "As A happened, B happened right after." To more easily make out this distinction, it’s common for phrases in the hypothetical sense to use もし as an opening word to clue in the listener.
+たら is another conditional that in some usages is similar to ば. Unlike ば, however, it has a broader scope and nuance of sequential series of actions. It can be used to connect two events in either a purely hypothetical or strictly temporal sequence. It can be "If A happens, then B" but also "As A happened, B happened right after." To more easily make out this distinction, it's common for phrases in the hypothetical sense to use もし as an opening word to clue in the listener.
 
 <pre>
 <b>もし</b>敵がい<b>たら</b>私が斬り捨てます
@@ -46,7 +46,7 @@ If that is okay (with you), please teach me.
 
 The "as" usage of たら is common when recounting past "one off” events that happened to you, often unexpectedly.
 
-たら and ば in the hypothetical sense can often be interchangeable. There’s even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn’t ask questions like "why did this person use たら instead of ば?" Just accept it.
+たら and ば in the hypothetical sense can often be interchangeable. There's even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn't ask questions like "why did this person use たら instead of ば?" Just accept it.
 
 There is another special usage of たら, usually directly after names, in the form of ったら. This ったら has a completely different meaning and just acts as a particle that marks an exclamation of exasperation. It is not a conditional.
 
@@ -59,7 +59,7 @@ Come on, dad, get your shit together!
 
 <pre>
 あんまり食べる<b>と</b>太りますよ
-<b>If</b> you eat too much, you’ll get fat
+<b>If</b> you eat too much, you'll get fat
 </pre>
 
 This と is also commonly used in narration to describe a series of events that happen one after the other. In this usage, it makes it sound like the reader has no control over the events and they are just a spectator to a show where these events happen "naturally" in front of them.
@@ -74,7 +74,7 @@ This means that when you say X なら Y, the meaning is close to something like 
 
 <pre>
 行きたい<b>なら</b>一緒に行こう
-<b>If it’s the case that</b> you want to go, let’s go together
+<b>If it's the case that</b> you want to go, let's go together
 </pre>
 
 Due to this specific nuance of なら, it is the only conditional where the second clause can happen before the preceding one. と, たら, and ば cannot do this.
@@ -95,5 +95,5 @@ With verbs and い adjectives, の can sometimes be placed between the verb and 
 <b>Since</b> you want to know so badly, I shall tell you.
 
 そんなに知りたい<b>なら</b>教えてやる。
-<b>Since</b> you want to know so badly, I’ll tell you
+<b>Since</b> you want to know so badly, I'll tell you
 </pre>

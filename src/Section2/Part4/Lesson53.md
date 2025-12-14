@@ -16,7 +16,7 @@ To make (someone) eat
 </pre>
 
 <div class="warning">
-Reality check: there are exceptions and short/colloquial forms (書かせる -> 書かす). You don’t need to worry about them too much but be aware they exist. 
+Reality check: there are exceptions and short/colloquial forms (書かせる -> 書かす). You don't need to worry about them too much but be aware they exist. 
 </div>
 
 When we use a verb in causative form, the causer/agent (= the one that does the "forcing" or "allowing") is usually marked by は or が. The causee/target (= the one that is "forced" or "allowed") can be either marked with に or を. The choice between these two particles depends on the verb being used.

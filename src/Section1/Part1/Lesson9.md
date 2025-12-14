@@ -12,7 +12,7 @@ Stems are important for godan verbs because godan verbs have many stems and ofte
 | 死ぬ       | 死な     | 死に/死ん|
 | 書く       | 書か     | 書き/書い|
 
-Note: "a" form and "i" form aren’t real terms, it’s just an example to show the sound vowel these stem end as. We don’t need to know the Japanese linguistic names of these forms now, but you can look them up if you want. 
+Note: "a" form and "i" form aren't real terms, it's just an example to show the sound vowel these stem end as. We don't need to know the Japanese linguistic names of these forms now, but you can look them up if you want. 
 
 Here's an example of these stems in use:
 
@@ -45,7 +45,7 @@ Don't memorize this table. There are some rules based on what kana row the verb 
 - ぶ, む, or ぬ become んだ
 - く and ぐ become respectively いた and いだ
 
-There are also a couple of verbs with a funny irregular conjugation, for example 問う becomes 問うた. There are only a few of them that behave like this (乞う \-\> 乞うた being another one). You don’t need to memorize these, just be aware they exist, they are not very common.
+There are also a couple of verbs with a funny irregular conjugation, for example 問う becomes 問うた. There are only a few of them that behave like this (乞う \-\> 乞うた being another one). You don't need to memorize these, just be aware they exist, they are not very common.
 
 Japanese speakers don't go through this mental process whenever they conjugate something. This process is second nature to them. At the very least, if you do a little reading and listening in Japanese, you will be able to recognize the past tense at a glance. Exposure is more powerful than memorization.
 

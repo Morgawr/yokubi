@@ -2,7 +2,7 @@
 
 We briefly discussed the difference between なくて and ないで in [Lesson 11](../../Section1/Part1/Lesson11.md). Let's dig a bit deeper into it.
 
-When we make a verb or い adjective into the なくて form, this behaves like a usual て conjunctive form ("do X, and…"). It is common in this usage to imply some cause \-\> effect sequence ("I didn’t do X, and that is why Y happened") although not strictly required. 
+When we make a verb or い adjective into the なくて form, this behaves like a usual て conjunctive form ("do X, and…"). It is common in this usage to imply some cause \-\> effect sequence ("I didn't do X, and that is why Y happened") although not strictly required. 
 
 <pre>
 お役に立て<b>なくて</b>すみません。  
@@ -19,7 +19,7 @@ Perhaps… did you wait <b>without eating</b>?
 To enter the room <b>without even knocking</b>.
 </pre>
 
-There is another way we can use なくて and ないで, and that is using the verb forms 〜ず and 〜ずに. ず is an archaic conjugation of the negative auxiliary verb ぬ, but you don’t really need to know this. Just remember that 〜ず is almost a 1:1 replacement to なくて (or in some cases なく), and 〜ずに is a replacement of ないで. In **some** cases, 〜ず alone (without に) can also be used as ないで (Yay, Japanese!).
+There is another way we can use なくて and ないで, and that is using the verb forms 〜ず and 〜ずに. ず is an archaic conjugation of the negative auxiliary verb ぬ, but you don't really need to know this. Just remember that 〜ず is almost a 1:1 replacement to なくて (or in some cases なく), and 〜ずに is a replacement of ないで. In **some** cases, 〜ず alone (without に) can also be used as ないで (Yay, Japanese!).
 
 <pre>
 お役に立て<b>ず</b>、申し訳ございません。

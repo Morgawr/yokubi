@@ -23,13 +23,13 @@ There is only salt & pepper as flavoring
 
 <pre>
 悪いこと<b>ばかり</b>じゃないと思います。
-I don’t think it’s all bad things.
+I don't think it's all bad things.
 
 分からないこと<b>ばかり</b>だった
-It was all stuff I didn’t understand.
+It was all stuff I didn't understand.
 </pre>
 
-The structure \<verb\>てばかりいる is often used to convey a critical attitude towards someone stating they do just one thing over and over to the point where it’s detrimental.
+The structure \<verb\>てばかりいる is often used to convey a critical attitude towards someone stating they do just one thing over and over to the point where it's detrimental.
 
 <pre>
 彼は寝て<b>ばかり</b>いる

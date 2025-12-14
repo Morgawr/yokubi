@@ -1,6 +1,6 @@
 # Asking kindly with なさい and prohibition with な
 
-なさい asks someone to do something. It feels as though the asker expects the listener to do the action, but it's still a kind request. It has a feeling of indirectness/softness and can be often seen as feminine although it’s still fairly gender neutral. The speaker is usually a higher rank than the listener, and it is common among teachers and mothers when telling off kids. You can also find it in common set expressions like おやすみなさい, in which case there’s no extra nuance attached. 
+なさい asks someone to do something. It feels as though the asker expects the listener to do the action, but it's still a kind request. It has a feeling of indirectness/softness and can be often seen as feminine although it's still fairly gender neutral. The speaker is usually a higher rank than the listener, and it is common among teachers and mothers when telling off kids. You can also find it in common set expressions like おやすみなさい, in which case there's no extra nuance attached. 
 
 <pre>
 聞き<b>なさい</b>

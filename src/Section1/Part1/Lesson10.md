@@ -7,7 +7,7 @@ There is a verb form that ends in て. This verb form is used in two main ways:
 - to chain actions or statements together;
 - to provide additional nuance to an action or statement.
 
-The て form is made by replacing the past tense た with て. Keep in mind that this isn't some kind of secondary past tense. The て form does not encode any notion of "tense" in its form. It doesn’t tell us anything about the sentence being past or present. 
+The て form is made by replacing the past tense た with て. Keep in mind that this isn't some kind of secondary past tense. The て form does not encode any notion of "tense" in its form. It doesn't tell us anything about the sentence being past or present. 
 
 <pre>
 殺<b>して</b>　切<b>って</b>　買<b>って</b>　死<b>んで</b>　食<b>べて</b>

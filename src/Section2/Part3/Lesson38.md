@@ -4,11 +4,11 @@ This lesson focuses on how to state that something happens while something else 
 
 ながら states that two actions are concurrently true as they happen at the same time. The subject of the two actions **must** be the same. Like "I watch TV while eating chips" is okay, but "I watch TV while my brother plays video games" is not. ながら attaches to the masu stem of the verb.
 
-ながら is in the form of AながらB, where the action described by B is the "primary" action and the action described by A is a "secondary" action that is done at the same time. In English this nuance does not easily show up, so let’s look at two examples instead:
+ながら is in the form of AながらB, where the action described by B is the "primary" action and the action described by A is a "secondary" action that is done at the same time. In English this nuance does not easily show up, so let's look at two examples instead:
 
 <pre>
 画面を見<b>ながら</b>勉強しよう
-Let’s study <b>while</b> looking at the screen.
+Let's study <b>while</b> looking at the screen.
 
 そこで勉強し<b>ながら</b>、爺ちゃんの帰りを待つ
 I waited for grandpa to come home <b>while</b> studying there
@@ -74,5 +74,5 @@ This is often used to give recommendations or suggestions like "before X happens
 
 <pre>
 冷めない<b>うちに</b>食べましょう。
-Let’s eat <b>before</b> it gets cold. (lit. let’s eat while it is not cold)
+Let's eat <b>before</b> it gets cold. (lit. let's eat while it is not cold)
 </pre>

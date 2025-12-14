@@ -8,7 +8,7 @@ A(だ)からB roughly means "It is B, because of A."
 
 <pre>
 暑い<b>から</b>プールに行きたいです
-It’s hot<b>, so</b> I want to go to the pool
+It's hot<b>, so</b> I want to go to the pool
 
 みんないい人<b>だから</b>、きっと気にいる
 They are all good people<b>, so</b> I'm sure you'll like them.
@@ -27,7 +27,7 @@ There are some nuance differences between から and ので but the gist is that
 
 <pre>
 外は暑い<b>ので</b>気をつけてください
-It’s hot outside, <b>so</b> please be careful.
+It's hot outside, <b>so</b> please be careful.
 
 大事なこと<b>なので</b>、二回言いました。
 It was an important thing<b>, so</b> I said it twice.
@@ -37,7 +37,7 @@ It was an important thing<b>, so</b> I said it twice.
 
 <pre>
 突然のこと<b>で、</b>すぐに理解できなかった
-It was sudden<b>, so</b> I couldn’t immediately understand it.
+It was sudden<b>, so</b> I couldn't immediately understand it.
 </pre>
 
 This usage of で can also show up at the beginning of a statement to continue a previous statement, sometimes as それで:

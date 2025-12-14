@@ -18,7 +18,7 @@ Focusing back on と思う, the basic usage is that of a simple thought or feeli
 
 This thinking is often natural and unplanned. 
 
-A quirk of the verb 思う is that when we talk about **other people**, the verb is usually in ている form instead. In this usage, it can imply there is some reason for us to assume something about someone else’s thoughts (maybe they voiced their opinion out loud).
+A quirk of the verb 思う is that when we talk about **other people**, the verb is usually in ている form instead. In this usage, it can imply there is some reason for us to assume something about someone else's thoughts (maybe they voiced their opinion out loud).
 
 <pre>
 彼は本気でそれが正しい<b>と思っている</b>のだ。
