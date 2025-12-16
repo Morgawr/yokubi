@@ -1,6 +1,6 @@
 # Existence with いる and ある plus である
 
-The verbs いる and ある express existence. The difference between the two is whether the subject is something “animated” or not. An animal and a person take いる, but a table and a sandwich take ある. Something like a car, which moves but isn't alive, can sometimes use one or the other depending on context and focus of the sentence. Don’t be fooled into thinking this is about “living” or not. It is not. For example typhoons take いる because they move on their own. Robots in sci-fi movies also take いる. Sometimes people can take ある as well, especially in old language and set phrases.
+The verbs いる and ある express existence. The difference between the two is whether the subject is something "animated" or not. An animal and a person take いる, but a table and a sandwich take ある. Something like a car, which moves but isn't alive, can sometimes use one or the other depending on context and focus of the sentence. Don't be fooled into thinking this is about "living" or not. It is not. For example typhoons take いる because they move on their own. Robots in sci-fi movies also take いる. Sometimes people can take ある as well, especially in old language and set phrases.
 
 <pre>
 家には猫が<b>いる</b>
@@ -14,7 +14,7 @@ There is a shop.
 Both ある and いる are verbs of existence, and when it comes to marking the location of existence, we usually use に instead of で.
 </div>
 
-Sometimes, when people want to state that they have/own something, they use ある or いる. They technically don't mean "to have", but it’s an equivalent translation to how we use “have/possess” in English. It's just a wording difference.
+Sometimes, when people want to state that they have/own something, they use ある or いる. They technically don't mean "to have," but it's an equivalent translation to how we use "have/possess" in English. It's just a wording difference.
 
 <pre>
 デスクが<b>ある</b>
@@ -27,7 +27,7 @@ I have a cat.
 いる conjugates as an ichidan verb.
 
 <div class="warning">
-There is another いる verb: 要る which means “to need”. The difference is that this verb conjugates as godan instead, so besides the plain form, you can easily distinguish the two from each other when they are conjugated.
+There is another いる verb: 要る which means "to need." The difference is that this verb conjugates as godan instead, so besides the plain form, you can easily distinguish the two from each other when they are conjugated.
 </div>
 
 ある conjugates as a godan verb, but its negative conjugation is irregular.

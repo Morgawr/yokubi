@@ -1,8 +1,8 @@
 # "Just" with だけ, のみ, ばかり, and しか
 
-だけ, のみ, and ばかり are variations of "just" or "only". しか is similar, but it can only be used in negative statements.
+だけ, のみ, and ばかり are variations of "just" or "only." しか is similar, but it can only be used in negative statements.
 
-だけ means "just so", in terms of amount. It acts like a particle.
+だけ means "just so," in terms of amount. It acts like a particle.
 
 <pre>
 俺<b>だけ</b>行く
@@ -19,17 +19,17 @@ It's not only me.
 There is only salt & pepper as flavoring
 </pre>
 
-ばかり is yet another "only" word. It can also be pronounced ばっか or ばっかり. Xばかり focuses on everything falling within the definition of X as being true, whereas だけ and のみ focus on things that fall outside of the statement being false. Think of the difference in vibes between "There is only this" and "There is nothing else".
+ばかり is yet another "only" word. It can also be pronounced ばっか or ばっかり. Xばかり focuses on everything falling within the definition of X as being true, whereas だけ and のみ focus on things that fall outside of the statement being false. Think of the difference in vibes between "There is only this" and "There is nothing else."
 
 <pre>
 悪いこと<b>ばかり</b>じゃないと思います。
-I don’t think it’s all bad things.
+I don't think it's all bad things.
 
 分からないこと<b>ばかり</b>だった
-It was all stuff I didn’t understand.
+It was all stuff I didn't understand.
 </pre>
 
-The structure \<verb\>てばかりいる is often used to convey a critical attitude towards someone stating they do just one thing over and over to the point where it’s detrimental.
+The structure \<verb\>てばかりいる is often used to convey a critical attitude towards someone stating they do just one thing over and over to the point where it's detrimental.
 
 <pre>
 彼は寝て<b>ばかり</b>いる

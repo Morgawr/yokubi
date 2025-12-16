@@ -25,7 +25,7 @@ You shouldn't spend a week on each lesson. In fact, one new lesson a day might b
 
 Every single main lesson in this guide covers basic grammar. You should read the entire thing as quickly as possible. It's important to get stuff in your head sooner rather than later. It gives it time to grow, subconsciously, and even if you didn't feel like you learned it the first time, it makes it easier to remember it for good next time. Just don't get stuck reviewing it forever.
 
-After you get far enough in this guide, you should start trying to consume Japanese content. Especially reading. This guide will tell you when it’s a good time to start, but if you want to try earlier you don’t need to wait.
+After you get far enough in this guide, you should start trying to consume Japanese content. Especially reading. This guide will tell you when it's a good time to start, but if you want to try earlier you don't need to wait.
 
 Trying to read on a regular basis, even if you can't do it for more than five minutes, tells you exactly what your weak points are, and gives you a sense of progress. This guide exposes you to grammar to let you break down things, but you need to consume real Japanese to turn that exposure into acquisition.
 
@@ -33,7 +33,7 @@ The most efficient way to learn vocabulary is to start [picking up words from me
 
 If you want to speak Japanese, you must consume audible spoken Japanese, otherwise you'll sound unnatural. It doesn't matter if it's anime or news or living in Japan, you just have to consume it in the spoken unwritten form. This can come after you learn how to read, but you should passively expose yourself to it (with anything: visual novels, music, anime, etc) as early as possible, otherwise it'll take a long time for your brain to pick up on nuanced sound differences, like how Japanese people need to be trained before they can tell apart L and R. If you spend most of your time reading and ignore the spoken language, you can also acquire unnatural pronunciation and pitch accent that might be harder to fix later.
 
-## “Help\!”
+## "Help\!"
 
 Don't sweat it. Try to find a way to use this guide in a nice low stress way. Don't angst out about something being hard. Some things just take time.
 

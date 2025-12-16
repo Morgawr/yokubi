@@ -1,6 +1,6 @@
 # Enduring actions and state with ている and てある
 
-Let’s look at ている and てある now. They make use of いる/ある as auxiliary verbs.
+Let's look at ている and てある now. They make use of いる/ある as auxiliary verbs.
 
 ている indicates an enduring action or state. For a lot of verbs, this means progressive or continuous (enduring action), but for others, it means the result of an action remains in a certain condition (enduring state).
 
@@ -26,7 +26,7 @@ I'm eating.
 What are you saying
 </pre>
 
-てある is about something being in an enduring state resulting from someone’s action. てある always expresses a resulting state, **never** an action.
+てある is about something being in an enduring state resulting from someone's action. てある always expresses a resulting state, **never** an action.
 
 <pre>
 晩ご飯はもう作っ<b>てある</b>

@@ -34,7 +34,7 @@ It often comes after the volitional form of a verb to indicate that the speaker 
 Well then, shall we read a book or something?
 </pre>
 
-かい is a "friendly" question marker, especially for masculine speakers. Outside of familiar conversation, it can come across as rude/too direct. It’s not as common in real life as it is in media. In standard usage, it can only be used to ask yes/no questions.
+かい is a "friendly" question marker, especially for masculine speakers. Outside of familiar conversation, it can come across as rude/too direct. It's not as common in real life as it is in media. In standard usage, it can only be used to ask yes/no questions.
 
 <pre>
 お嬢ちゃん、大丈夫<b>かい</b>？
@@ -48,13 +48,13 @@ Parallel to かい, there is also だい. The vibes are pretty much the same, bu
 What are you guys going to do from now on?
 </pre>
 
-じゃない can also be used to ask confirmation questions. Yes, when attached to nouns, it's identical to normal "is not". No, there's no way around it. If you are lucky, there will be a question mark after it.
+じゃない can also be used to ask confirmation questions. Yes, when attached to nouns, it's identical to normal "is not." No, there's no way around it. If you are lucky, there will be a question mark after it.
 
 <pre>
 いい<b>じゃない</b>
 It's fine, isn't it?
 </pre>
 
-Note how adding a copula after verbs and い adjectives is technically incorrect but this type of じゃない lives on its own and can show up after them. It’s not negating the predicate, it’s just adding a negative question nuance (“isn’t it?”) and behaves like a sentence-ending particle.
+Note how adding a copula after verbs and い adjectives is technically incorrect but this type of じゃない lives on its own and can show up after them. It's not negating the predicate, it's just adding a negative question nuance ("isn't it?") and behaves like a sentence-ending particle.
 
-じゃん is a casual contraction of じゃない
+じゃん is a casual contraction of じゃない.

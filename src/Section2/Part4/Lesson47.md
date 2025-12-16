@@ -1,25 +1,25 @@
 # Still, already, and yet with もう, まだ, and また
 
-With positive statements, もう expresses "already". With negative statements, it works together with the negation to express "not anymore".
+With positive statements, もう expresses "already." With negative statements, it works together with the negation to express "not anymore."
 
-Basically, もう means that there's a change of state from the statement being false or irrelevant to the statement being true: "already" and "not anymore".
+Basically, もう means that there's a change of state from the statement being false or irrelevant to the statement being true: "already" and "not anymore."
 
 <pre>
 <b>もう</b>こんな時間だ
-It’s this late! (lit. It’s already this time)
+It's this late! (lit. It's already this time)
 
 <b>もう</b>食べたよ
 I already ate
 
 <b>もう</b>食べないの？
-You won’t eat anymore?
+You won't eat anymore?
 </pre>
 
 もう can also appear as an emphatic expression of frustration
 
 <pre>
 <b>もう</b>いいよ
-I’ve had enough (lit. it’s already at a sufficient level)
+I've had enough (lit. it's already at a sufficient level)
 
 <b>もう</b>！
 (angry frustrated noises)
@@ -29,7 +29,7 @@ In statements about the near future, もう can mean "soon" instead. This usuall
 
 <pre>
 どうやら<b>もう</b>来るみたい
-Well it seems like he’ll arrive soon
+Well it seems like he'll arrive soon
 </pre>
 
 Another use of もう expresses "more" of an amount.
@@ -49,7 +49,7 @@ A bit more
 Are you still going to eat (more)? / Are you going to continue eating?
 
 <b>まだ</b>負けないな！
-I haven’t lost yet!
+I haven't lost yet!
 
 <b>まだまだ</b>
 Not yet!
@@ -71,7 +71,7 @@ Did you write it yet?
 Are you already sleepy?
 </pre>
 
-また expresses the idea of "again". 
+また expresses the idea of "again."
 
 <pre>
 <b>また</b>来た

@@ -1,6 +1,6 @@
 # Permission with いい and negative invitations with ませんか
 
-いい just means "good" or "fine" and isn't a grammatical term in itself, but it's used often in patterns about permission. After て form it’s asking for permission to do the action marked by て. てもいい also works mostly the same and you’ll see either quite often.
+いい just means "good" or "fine" and isn't a grammatical term in itself, but it's used often in patterns about permission. After て form it's asking for permission to do the action marked by て. てもいい also works mostly the same and you'll see either quite often.
 
 <pre>
 食べて(も)<b>いい</b>？
@@ -20,28 +20,28 @@ When negation is involved, "permission" statements with いい often walk the li
 
 <pre>
 食べなくて(も)<b>いい</b>よ
-It’s okay if you don’t eat
+It's okay if you don't eat
 </pre>
 
-As a response, いい(です) usually assumes the meaning of rejection (like “I’m good” in English).
+As a response, いい(です) usually assumes the meaning of rejection (like "I'm good" in English).
 
 <pre>
 レジ袋ご利用ですか?
 Do you need a bag?
 いや、<b>いいです</b>
-Nah, I’m good.
+Nah, I'm good.
 </pre>
 
-In a previous lesson we saw the volitional form can be used to invite/urge someone to do something with you. There is another way to ask someone if they want to do something together with you, and that is to use a question phrased in the negative. This is similar to the English “won’t you… ?”.
+In a previous lesson we saw the volitional form can be used to invite/urge someone to do something with you. There is another way to ask someone if they want to do something together with you, and that is to use a question phrased in the negative. This is similar to the English "won't you...?"
 
 <pre>
 明日、映画を見に<b>行かない</b>？
-Why don’t we go see a movie tomorrow?
+Why don't we go see a movie tomorrow?
 </pre>
 
-This structure can also be used for requests that aren’t invitations.
+This structure can also be used for requests that aren't invitations.
 
 <pre>
 すいません、もう一回言ってくれ<b>ませんか</b>？
-I’m sorry, could you repeat that again? (lit. “won’t you say it again?”)
+I'm sorry, could you repeat that again? (lit. "won't you say it again?")
 </pre>

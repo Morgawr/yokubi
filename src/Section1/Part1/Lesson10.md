@@ -7,7 +7,7 @@ There is a verb form that ends in て. This verb form is used in two main ways:
 - to chain actions or statements together;
 - to provide additional nuance to an action or statement.
 
-The て form is made by replacing the past tense た with て. Keep in mind that this isn't some kind of secondary past tense. The て form does not encode any notion of “tense” in its form. It doesn’t tell us anything about the sentence being past or present. 
+The て form is made by replacing the past tense た with て. Keep in mind that this isn't some kind of secondary past tense. The て form does not encode any notion of "tense" in its form. It doesn't tell us anything about the sentence being past or present. 
 
 <pre>
 殺<b>して</b>　切<b>って</b>　買<b>って</b>　死<b>んで</b>　食<b>べて</b>
@@ -37,7 +37,7 @@ This also works for negative conjugations, which is also how we apply て form t
 | 赤くな<b>い</b> | 赤くな<b>くて</b> |
 | 食べな<b>い</b> | 食べな<b>くて</b> |
 
-We saw “A is B” and “A does B” type of sentences. With the introduction of the て form we will see our first example of “A does B, and then D does C” type of sentences. At the very basic syntax level, AてB means “A happens, and then B”. It can mark either a temporal sequence, or a cause \-\> consequence relationship. It allows us to make longer sentences with multiple verbs in sequence. Note that the subject on both sides does not have to be the same.
+We saw "A is B" and "A does B" type of sentences. With the introduction of the て form we will see our first example of "A does B, and then D does C" type of sentences. At the very basic syntax level, AてB means "A happens, and then B." It can mark either a temporal sequence, or a cause \-\> consequence relationship. It allows us to make longer sentences with multiple verbs in sequence. Note that the subject on both sides does not have to be the same.
 
 <pre>
 察しがよく<b>て</b>助かる
