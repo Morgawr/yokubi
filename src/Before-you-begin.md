@@ -11,7 +11,7 @@ This guide assumes that you're learning vocabulary outside this guide. It can't 
 
 If you need more guidance for things other than grammar, try the [loop](https://morg.systems/58465ab9).
 
-**Check this:** 置 How does this character render? If it's missing the vertical line on the left side, your browser is using Chinese fonts for japanese. You may need to install Japanese fonts or change some system language settings.
+**Check this:** 置 How does this character render? If it's missing the vertical line on the left side, your browser is using Chinese fonts for Japanese. You may need to install Japanese fonts or change some system language settings.
 
 ![][image1]
 
