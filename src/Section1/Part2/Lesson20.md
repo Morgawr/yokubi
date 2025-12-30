@@ -142,7 +142,7 @@ Oh, so it was a student.
 Ahh, so that's how it is (lit. "Ahh, it was that kind of thing")
 </pre>
 
-It can also be used as some kind of set phrase to tell the listener that you are following the converastion.
+It can also be used as some kind of set phrase to tell the listener that you are following the conversation.
 
 <pre>
 ふーん、そう<b>なんだ</b>
