@@ -38,8 +38,8 @@ The fish was eaten <b>by</b> a cat.
 In grammar study, there's the concept of verbal "transitivity," which basically defines whether a verb accepts a direct object or not. As we know from [Lesson 3](../Part1/Lesson3.md), the direct object is marked by を, while the subject is marked by が.
 
 <pre>
-<b>彼を</b>教えた
-I taught <b>him</b>. (transitive)
+<b>彼を</b>殺した
+I killed <b>him</b>. (transitive)
 
 <b>彼が</b>死ぬ
 <b>He</b> dies. (intransitive)
