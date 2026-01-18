@@ -32,7 +32,7 @@ Do you need a bag?
 Nah, I'm good.
 </pre>
 
-In a previous lesson we saw the volitional form can be used to invite/urge someone to do something with you. There is another way to ask someone if they want to do something together with you, and that is to use a question phrased in the negative. This is similar to the English "won't you...?"
+In a previous lesson we saw the volitional form can be used to invite/urge someone to do something with you. There is another way to ask someone if they want to do something together with you, and that is to use a question phrased in the negative. This is similar to the English "won't you...?".
 
 <pre>
 明日、映画を見に<b>行かない</b>？

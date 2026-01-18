@@ -105,7 +105,7 @@ What are you <i>doing</i>?
 
 Note: the "doing" in the second sentence is stressed in italics to indicate tone in English.
 
-You can imagine the first to be used when asking your friend over the phone what they are up to, just cause you're curious and are looking for a topic of conversation. However, the second one sounds more inquisitive, maybe even aggressive, and you can imagine using it if you see someone breaking into your car as you catch him red-handed. Like "Dude, wtf are you doing?" You are expecting, even demanding, some explanation.
+You can imagine the first to be used when asking your friend over the phone what they are up to, just cause you're curious and are looking for a topic of conversation. However, the second one sounds more inquisitive, maybe even aggressive, and you can imagine using it if you see someone breaking into your car as you catch him red-handed. Like "Dude, wtf are you doing?". You are expecting, even demanding, some explanation.
 
 In a similar way, when we make statements with an explanatory nuance, we use んだ. Just like questions with の？ are seeking clarification, statements with んだ are providing an explanation or additional information that the speaker wants to make known to the listener.
 

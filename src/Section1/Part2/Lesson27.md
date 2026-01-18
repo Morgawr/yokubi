@@ -46,7 +46,7 @@ If that is okay (with you), please teach me.
 
 The "as" usage of たら is common when recounting past "one off” events that happened to you, often unexpectedly.
 
-たら and ば in the hypothetical sense can often be interchangeable. There's even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn't ask questions like "why did this person use たら instead of ば?" Just accept it.
+たら and ば in the hypothetical sense can often be interchangeable. There's even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn't ask questions like "why did this person use たら instead of ば?". Just accept it.
 
 There is another special usage of たら, usually directly after names, in the form of ったら. This ったら has a completely different meaning and just acts as a particle that marks an exclamation of exasperation. It is not a conditional.
 
