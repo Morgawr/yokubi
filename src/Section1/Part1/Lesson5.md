@@ -16,7 +16,7 @@ Ahead of the cat
 Boy (metaphorically, male child)
 </pre>
 
-If you get lost, the easiest way to remember の is: It's like "of," but it applies backwards.
+If you get lost, the easiest way to remember の is: It's like "of", but it applies backwards.
 
 <pre>
 夜<b>の</b>人

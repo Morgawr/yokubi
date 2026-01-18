@@ -14,7 +14,7 @@ There is a shop.
 Both ある and いる are verbs of existence, and when it comes to marking the location of existence, we usually use に instead of で.
 </div>
 
-Sometimes, when people want to state that they have/own something, they use ある or いる. They technically don't mean "to have," but it's an equivalent translation to how we use "have/possess" in English. It's just a wording difference.
+Sometimes, when people want to state that they have/own something, they use ある or いる. They technically don't mean "to have", but it's an equivalent translation to how we use "have/possess" in English. It's just a wording difference.
 
 <pre>
 デスクが<b>ある</b>

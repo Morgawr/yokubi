@@ -2,7 +2,7 @@
 
 だけ, のみ, and ばかり are variations of "just" or "only". しか is similar, but it can only be used in negative statements.
 
-だけ means "just so," in terms of amount. It acts like a particle.
+だけ means "just so", in terms of amount. It acts like a particle.
 
 <pre>
 俺<b>だけ</b>行く

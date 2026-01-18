@@ -1,6 +1,6 @@
 # Reflexes with 自分
 
-In English, you don't say "Jim broke Jim's watch" when there's just one Jim. You say "Jim broke his watch," or sometimes "Jim broke his own watch". You don't say "Jim hurt Jim," or "Jim hurt him," you say "Jim hurt himself".
+In English, you don't say "Jim broke Jim's watch" when there's just one Jim. You say "Jim broke his watch", or sometimes "Jim broke his own watch". You don't say "Jim hurt Jim", or "Jim hurt him", you say "Jim hurt himself".
 
 "His own" and "himself" have the property of being "reflexive". When you need to do something reflexive in Japanese, 自分 fulfills this behavior.
 

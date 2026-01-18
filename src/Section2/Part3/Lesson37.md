@@ -1,6 +1,6 @@
 # Adversatives with が, けど, しかし, and ても/でも
 
-Unrelated to the **subject marker** が, the **conjunction** が states that, even though the former statement is true, the latter statement is also true. With が, both statements are independent clauses. Often, but not always, the second statement is in contrast with the first statement. This is commonly translated as "but" or "although," but there are cases where it's simply just an "and" and there is no contrast at all.
+Unrelated to the **subject marker** が, the **conjunction** が states that, even though the former statement is true, the latter statement is also true. With が, both statements are independent clauses. Often, but not always, the second statement is in contrast with the first statement. This is commonly translated as "but" or "although", but there are cases where it's simply just an "and" and there is no contrast at all.
 
 <pre>
 少し早い<b>ですが</b>、おめでとうございます。

@@ -46,4 +46,4 @@ The plain form and past tense usually line up with the English present and past 
 
 In Japanese, ordinary statements about the future use the plain form most of the time. This is where the name "non-past" comes from.
 
-Sometimes the past tense can also be used for things that are already completed like "has become," even if they're hypothetical and haven't happened yet. You might also hear it called "completed tense" or "completed form".
+Sometimes the past tense can also be used for things that are already completed like "has become", even if they're hypothetical and haven't happened yet. You might also hear it called "completed tense" or "completed form".

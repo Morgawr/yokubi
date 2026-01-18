@@ -24,14 +24,14 @@ He was on the swing like a child
 
 Both of these examples are valid, but the former is more proper.
 
-らしい is an auxiliary adjective that attaches to nouns or verbs/adjectives and says that something factually "seems so" based on circumstance. らしい is appropriate for things that would translate to "seems X," rather than "Xish".
+らしい is an auxiliary adjective that attaches to nouns or verbs/adjectives and says that something factually "seems so" based on circumstance. らしい is appropriate for things that would translate to "seems X", rather than "Xish".
 
 <pre>
 日本人<b>らしい</b>名前。
 A name that seems Japanese.
 </pre>
 
-You might also see らしい used to mean "I heard that," used to convey hearsay or information obtained from third parties.
+You might also see らしい used to mean "I heard that", used to convey hearsay or information obtained from third parties.
 
 <pre>
 出発は明日の昼頃になる<b>らしい</b>。

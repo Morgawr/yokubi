@@ -39,7 +39,7 @@ Time went by in a flash.
 This world is continuously changing little by little.
 </pre>
 
-Some verbs **require** to be paired with an auxiliary verb of directionality to make some of the sentences grammatical. For example the verb 引っ越す means "to move (house/residence)," but unlike English it doesn't have an actual connotation of "movement" or dynamism to it. When you want to use it in the sense of "I just moved here" and highlight a state transition, you must use an auxiliary verb of direction. Other verbs like 送る and 歩く work in a similar way.
+Some verbs **require** to be paired with an auxiliary verb of directionality to make some of the sentences grammatical. For example the verb 引っ越す means "to move (house/residence)", but unlike English it doesn't have an actual connotation of "movement" or dynamism to it. When you want to use it in the sense of "I just moved here" and highlight a state transition, you must use an auxiliary verb of direction. Other verbs like 送る and 歩く work in a similar way.
 
 <pre>
 親の都合で、この街に引っ越し<b>てきた</b>

@@ -1,6 +1,6 @@
 # Quotes with と, って, and という
 
-There are two basic types of relative clause. The first is the kind that modifies a noun, which we already learned in [Lesson 14](../../Section1/Part1/Lesson14.md). The second is an embedded clause, often called a "quote," like the underlined part of "He said that <ins>the war would end soon</ins>".
+There are two basic types of relative clause. The first is the kind that modifies a noun, which we already learned in [Lesson 14](../../Section1/Part1/Lesson14.md). The second is an embedded clause, often called a "quote", like the underlined part of "He said that <ins>the war would end soon</ins>".
 
 って and と, called quotation markers, often assume the role of marking such embedded clauses.
 
@@ -18,7 +18,7 @@ I said I'm not scared
 In English we distinguish between direct and indirect quotes through punctuation. For example:
 
 <pre>
-"I will eat the cake," he said. (direct quote)  
+"I will eat the cake", he said. (direct quote)  
 He said he would eat the cake. (indirect quote)
 </pre>
 
@@ -41,7 +41,7 @@ I said no, didn't I?
 What did you say?
 </pre>
 
-As you can see from the second example, the verb ("said," "thought," etc) can be often dropped if it's obvious from context and tone.
+As you can see from the second example, the verb ("said", "thought", etc) can be often dropped if it's obvious from context and tone.
 
 In some usages って can also take the role of topic, similar to は. In these cases it's not really a quote. It's just an alternative topic marker.
 

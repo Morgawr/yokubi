@@ -1,6 +1,6 @@
 # Approximately with ころ and くらい, and limits with まで, ほど, すぎる
 
-ころ is a noun that roughly means "approximate time". You run into Xのころに a lot. This can either be a conjunction "around the time of X," or a noun like "the general time when X" with the に particle attached. In some situations ころ can attach directly to nouns as the suffix ごろ.
+ころ is a noun that roughly means "approximate time". You run into Xのころに a lot. This can either be a conjunction "around the time of X", or a noun like "the general time when X" with the に particle attached. In some situations ころ can attach directly to nouns as the suffix ごろ.
 
 <pre>
 子供<b>のころに</b>見たアニメを思い出す。
@@ -59,7 +59,7 @@ I will finish it <b>by</b> the day after tomorrow.
 I am not <b>as</b> strong <b>as</b> them.
 </pre>
 
-In positive statements where ほど attaches to an "amount," it's an approximation.
+In positive statements where ほど attaches to an "amount", it's an approximation.
 
 <pre>
 中身はまだ半分<b>ほど</b>残っている。

@@ -37,7 +37,7 @@ If it's inside a dream, I can serve things like tea and sweets.
 It is <b>precisely</b> at times like these I must keep cool.
 </pre>
 
-さえ is an emphatic particle that means "even an X," "only an X," or "as long as X," depending on the phrase. 
+さえ is an emphatic particle that means "even an X", "only an X", or "as long as X", depending on the phrase. 
 
 <pre>
 私<b>さえ</b>いなければ、こんなことにはならなかった。

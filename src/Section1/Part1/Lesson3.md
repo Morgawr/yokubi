@@ -8,7 +8,7 @@ Japanese uses "particles" (助詞), something similar to prepositions, to define
 
 In English, we use word order to understand what role each word has in a sentence: subject, verb, object. 
 
-These roles are called "cases," and each role is a specific "case". Japanese uses particles to indicate these roles, that's why they are often called "case-marking particles". We say a particle "marks” a role when we want to say that the word it is attached to assumes said role in the sentence.
+These roles are called "cases", and each role is a specific "case". Japanese uses particles to indicate these roles, that's why they are often called "case-marking particles". We say a particle "marks” a role when we want to say that the word it is attached to assumes said role in the sentence.
 
 There's a default word order, and sometimes particles can even be omitted if the meaning can be inferred from context, but in general particles are the norm. Some words can also exist "freely" in a sentence without particles, we'll take a look at them in a later lesson. 
 

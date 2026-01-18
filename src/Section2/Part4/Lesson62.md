@@ -7,7 +7,7 @@
 Yesterday, <b>after</b> eating dinner, we went back to our rooms.
 </pre>
 
-前 is the opposite of 後 and means "before". 前 can both mean before in the spatial sense (i.e. in front of you) and in the time sense (i.e. the past). This is unintuitive because of the notion of "putting the past behind you," but if you think about a line of people waiting, the ones *in front* of you will take their turn *before* you. So when it is your turn, theirs will have been *in the past*.
+前 is the opposite of 後 and means "before". 前 can both mean before in the spatial sense (i.e. in front of you) and in the time sense (i.e. the past). This is unintuitive because of the notion of "putting the past behind you", but if you think about a line of people waiting, the ones *in front* of you will take their turn *before* you. So when it is your turn, theirs will have been *in the past*.
 
 The conjunction X前に means something happens before X does, not necessarily immediately. If X is a verb, it **cannot** be in past form. 
 
@@ -18,7 +18,7 @@ My body moved <b>before</b> thinking.
 
 前 and 先 are almost synonyms.
 
-先 is a noun meaning "before," "ahead," or "front part/end". Generally, when 先 is spatial, it means the front ("tip") of something, or the direction it's headed, not the location immediately in front of it.
+先 is a noun meaning "before", "ahead", or "front part/end". Generally, when 先 is spatial, it means the front ("tip") of something, or the direction it's headed, not the location immediately in front of it.
 
 <pre>
 目線の<b>先に</b>は、少女がいた。
@@ -34,7 +34,7 @@ I said that <b>before</b>.
 
 さっき is a casual version of 先 that is exclusively used to mean a "moment ago".
 
-時 is a noun that means "time," but if you give it a relative clause, it can act like a conjunction ("when" or "at the time of").
+時 is a noun that means "time", but if you give it a relative clause, it can act like a conjunction ("when" or "at the time of").
 
 <pre>
 そんなことを考えている<b>時、</b>宿屋の入り口で大声が聞こえた。  

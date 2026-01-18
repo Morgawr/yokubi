@@ -26,7 +26,7 @@ While も usually "hides" を, you might come across をも as well. It's a bit 
 I won't eat, <b>either</b>. (in addition to other people)
 </pre>
 
-The particle と is also used to provide some "inclusion," but it works very differently from も. It may look similar at an English translation level, but don't be fooled. They are nothing alike. 
+The particle と is also used to provide some "inclusion", but it works very differently from も. It may look similar at an English translation level, but don't be fooled. They are nothing alike. 
 
 と normally makes a list of things.
 

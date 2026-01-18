@@ -35,7 +35,7 @@ The person who performs an action is the "agent". If you want to mention the age
 The fish was eaten <b>by</b> a cat.
 </pre>
 
-In grammar study, there's the concept of verbal "transitivity," which basically defines whether a verb accepts a direct object or not. As we know from [Lesson 3](../Part1/Lesson3.md), the direct object is marked by を, while the subject is marked by が.
+In grammar study, there's the concept of verbal "transitivity", which basically defines whether a verb accepts a direct object or not. As we know from [Lesson 3](../Part1/Lesson3.md), the direct object is marked by を, while the subject is marked by が.
 
 <pre>
 <b>彼を</b>殺した

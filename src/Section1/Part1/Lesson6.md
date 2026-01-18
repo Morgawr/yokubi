@@ -22,7 +22,7 @@ Go <b>towards</b> Tokyo / Headed <b>for</b> Tokyo
 
 In many sentences, へ and に can be interchangeable with very minimal difference in meaning. へ can sometimes sound a bit more formal or literary.
 
-に can mark a location of existence or target of direction. The latter use overlaps with へ a little, but へ cares more about motion and "towardsness," and に cares more about the end objective. It can also mark a point in time when an action takes place.
+に can mark a location of existence or target of direction. The latter use overlaps with へ a little, but へ cares more about motion and "towardsness", and に cares more about the end objective. It can also mark a point in time when an action takes place.
 
 <pre>
 東京<b>に</b>暮らす

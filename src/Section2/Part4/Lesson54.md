@@ -2,7 +2,7 @@
 
 We have already seen なる in some examples from past lessons. Let's now take a deeper look at how it works.
 
-なる is a verb meaning something like "become" or "ending up being". In addition to just "become," it can be used for all sorts of indirect states, like a team ending up being its members, or a rumor turning out to be true.
+なる is a verb meaning something like "become" or "ending up being". In addition to just "become", it can be used for all sorts of indirect states, like a team ending up being its members, or a rumor turning out to be true.
 
 <pre>
 海賊王<b>に</b>俺は<b>なる</b>！
@@ -47,7 +47,7 @@ It is common for the structure ようになる to have the verb in potential for
 
 As a parallel of \<adverb\> + なる, we will now look at \<adverb\> + する. 
 
-You can consider する to be the "active" version of なる. While \<adverb\> + なる means "to **become** \<adverb\>," \<adverb\> + する means "to **make** (something) into \<adverb\>".
+You can consider する to be the "active" version of なる. While \<adverb\> + なる means "to **become** \<adverb\>", \<adverb\> + する means "to **make** (something) into \<adverb\>".
 
 The sentence structure works exactly the same as なる, except we mark the thing that is being "made" with を.
 

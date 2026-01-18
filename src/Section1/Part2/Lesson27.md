@@ -18,7 +18,7 @@ The simplest conditional we will see is the ば form which turns verbs into a co
 <b>If</b> I kill you, everything will end.
 </pre>
 
-ば implies that the condition is sufficient for the result to come to happen. It's a true logical "if". This can even be used for certain requests, like "If you're late, just call and I'll handle everything". However, ば doesn't imply that the condition will eventually happen, so it can't be used in things like "When you come around, come see me". In narration, it can sometimes mean "X happened, and then Y," but this non-conditional usage is fairly limited and not as common outside of literary works. 
+ば implies that the condition is sufficient for the result to come to happen. It's a true logical "if". This can even be used for certain requests, like "If you're late, just call and I'll handle everything". However, ば doesn't imply that the condition will eventually happen, so it can't be used in things like "When you come around, come see me". In narration, it can sometimes mean "X happened, and then Y", but this non-conditional usage is fairly limited and not as common outside of literary works. 
 
 For the ば conditional of the copula だ, we need to "expand" it into である and conjugate that instead.
 
@@ -70,7 +70,7 @@ This と is also commonly used in narration to describe a series of events that 
 </pre>
 
 The last conditional for this lesson is なら. なら is a strictly hypothetical conditional. It implies that the condition is assumed true in the hypothetical world where the statement takes place.
-This means that when you say X なら Y, the meaning is close to something like "If we consider the case that X is true, then Y," but it doesn't sound as verbose as it does in English. It's a very common way to phrase things.
+This means that when you say X なら Y, the meaning is close to something like "If we consider the case that X is true, then Y", but it doesn't sound as verbose as it does in English. It's a very common way to phrase things.
 
 <pre>
 行きたい<b>なら</b>一緒に行こう
