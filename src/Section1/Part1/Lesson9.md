@@ -1,6 +1,6 @@
 # Past verbs
 
-You form the past tense of a verb by attaching た or だ to a specific "stem."
+You form the past tense of a verb by attaching た or だ to a specific "stem".
 
 Stems are important for godan verbs because godan verbs have many stems and often present irregularities.
 

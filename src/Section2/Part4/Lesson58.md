@@ -2,7 +2,7 @@
 
 We already touched briefly on the concept of directionality in [Lesson 11](../../Section1/Part1/Lesson11.md) with the giving auxiliary verbs てあげる, てもらう, and てくれる. Let's now dig a bit deeper into this concept and introduce two more auxiliaries: ていく and てくる.
 
-When not used with an auxiliary sense, Vていく and Vてくる simply mean what they spell: "To do V, and then go/come somewhere." However, when used as auxiliaries, their meaning deepens and becomes more than the sum of its parts.
+When not used with an auxiliary sense, Vていく and Vてくる simply mean what they spell: "To do V, and then go/come somewhere". However, when used as auxiliaries, their meaning deepens and becomes more than the sum of its parts.
 
 Auxiliary ていく roughly means that some event is ongoing and will "keep going" in a direction away from the speaker, either in place or time (present \-\> future). ていく can be contracted as てく.
 

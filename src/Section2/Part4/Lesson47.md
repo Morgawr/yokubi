@@ -1,8 +1,8 @@
 # Still, already, and yet with もう, まだ, and また
 
-With positive statements, もう expresses "already." With negative statements, it works together with the negation to express "not anymore."
+With positive statements, もう expresses "already". With negative statements, it works together with the negation to express "not anymore".
 
-Basically, もう means that there's a change of state from the statement being false or irrelevant to the statement being true: "already" and "not anymore."
+Basically, もう means that there's a change of state from the statement being false or irrelevant to the statement being true: "already" and "not anymore".
 
 <pre>
 <b>もう</b>こんな時間だ
@@ -71,7 +71,7 @@ Did you write it yet?
 Are you already sleepy?
 </pre>
 
-また expresses the idea of "again."
+また expresses the idea of "again".
 
 <pre>
 <b>また</b>来た

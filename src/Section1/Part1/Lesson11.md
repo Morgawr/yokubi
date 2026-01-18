@@ -7,7 +7,7 @@ On top of just connecting two statements into a single sentence, the て form ca
 I'll do you the favor of killing you
 </pre>
 
-In this example, the verb あげる attaches to the て form of 殺す. あげる has a few meanings, two of them being "to raise (something)" and "to give (something to someone)." Because it is used in this pattern, it assumes the meaning of "giving" the action 殺す to someone else. It can have the nuance of doing it as some kind of favor, sometimes ironically or sarcastically (as in the example above).
+In this example, the verb あげる attaches to the て form of 殺す. あげる has a few meanings, two of them being "to raise (something)" and "to give (something to someone)". Because it is used in this pattern, it assumes the meaning of "giving" the action 殺す to someone else. It can have the nuance of doing it as some kind of favor, sometimes ironically or sarcastically (as in the example above).
 
 <pre>
 助け<b>てもらう</b>

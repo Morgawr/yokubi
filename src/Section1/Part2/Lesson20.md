@@ -132,7 +132,7 @@ I don't remember well what happened after that (I'm providing an excuse about my
 I'm telling you I don't care about that (Additional emphasis with explanatory tone)
 </pre>
 
-A specific usage of んだ that is worth pointing out is that it is often used in situations where the speaker realizes some new information. This is often used in past tense to highlight the transitioning from the state of "not knowing" to the state of "knowing."
+A specific usage of んだ that is worth pointing out is that it is often used in situations where the speaker realizes some new information. This is often used in past tense to highlight the transitioning from the state of "not knowing" to the state of "knowing".
 
 <pre>
 へー、学生<b>だったんだ</b>

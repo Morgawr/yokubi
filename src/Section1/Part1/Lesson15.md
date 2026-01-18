@@ -1,6 +1,6 @@
 # な-adjectives
 
-Now let's look at な-adjectives, named after the な that comes after them. な adjectives are simple words that look like nouns, but they can be used attributively to describe other nouns by connecting them with the な "particle."
+Now let's look at な-adjectives, named after the な that comes after them. な adjectives are simple words that look like nouns, but they can be used attributively to describe other nouns by connecting them with the な "particle".
 
 <pre>
 バカ<b>な</b>子供
@@ -10,7 +10,7 @@ Stupid kid
 Beloved person
 </pre>
 
-Now that we learned what relative clauses are, it's good to learn that the term "attributively" basically means "as a relative clause."
+Now that we learned what relative clauses are, it's good to learn that the term "attributively" basically means "as a relative clause".
 
 At the end of sentences, な-adjectives can look like nouns, and just like nouns they can end sentences with だ
 

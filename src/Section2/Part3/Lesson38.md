@@ -70,7 +70,7 @@ It often has a nuance that the event marked by うちに is limited in time and 
 Are you going to rescue them <b>while</b> the spiders are away?
 </pre>
 
-This is often used to give recommendations or suggestions like "before X happens, we should do Y."
+This is often used to give recommendations or suggestions like "before X happens, we should do Y".
 
 <pre>
 冷めない<b>うちに</b>食べましょう。

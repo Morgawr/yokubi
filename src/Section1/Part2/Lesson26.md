@@ -2,7 +2,7 @@
 
 In this lesson, we're learning three ways we can express desire or intent in Japanese.
 
-The "volitional" form, おう/よう, says that you want to or will do something, or invites volition in other people like "let's X." It's also used in compound constructions about volitional action. The volitional form of godan verbs is -ou, and the volitional form of ichidan verbs is よう. It's pronounced with a "long o," not お plus う.
+The "volitional" form, おう/よう, says that you want to or will do something, or invites volition in other people like "let's X". It's also used in compound constructions about volitional action. The volitional form of godan verbs is -ou, and the volitional form of ichidan verbs is よう. It's pronounced with a "long o," not お plus う.
 
 <pre>
 行こう

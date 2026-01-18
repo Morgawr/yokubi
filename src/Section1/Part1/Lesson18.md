@@ -27,7 +27,7 @@ I have a cat.
 いる conjugates as an ichidan verb.
 
 <div class="warning">
-There is another いる verb: 要る which means "to need." The difference is that this verb conjugates as godan instead, so besides the plain form, you can easily distinguish the two from each other when they are conjugated.
+There is another いる verb: 要る which means "to need". The difference is that this verb conjugates as godan instead, so besides the plain form, you can easily distinguish the two from each other when they are conjugated.
 </div>
 
 ある conjugates as a godan verb, but its negative conjugation is irregular.

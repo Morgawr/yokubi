@@ -30,7 +30,7 @@ What is <b>that</b>? (pointing at something away from both you and the listener)
 <b>Which</b> is good?
 </pre>
 
-The above four words are "demonstrative pronouns." Two of them translate into English as "that," but they have different connotations in Japanese. それ is for things that are near the listener. あれ is for things that are far from both the speaker and the listener.
+The above four words are "demonstrative pronouns". Two of them translate into English as "that," but they have different connotations in Japanese. それ is for things that are near the listener. あれ is for things that are far from both the speaker and the listener.
 
 In case you hadn't noticed the pattern, as this lesson title points out, we sometimes call them all together こそあど because they differ between them only by the first kana syllable.
 
@@ -54,7 +54,7 @@ which &lt;noun&gt;
 
 These words cannot exist standalone, and they **must** attach to the noun that comes after them. The meaning is the same as the other group, but their usage is slightly different. 
 
-Imagine you are holding a book and you want to say "This is a book." "Book" is the focus of the sentence, so you would say これは本です. You are simply stating "this \= book" using a copula. However, if you want to say something **about** this book, you would instead say この本は面白いです. **This book** is interesting. "This" and "book" become a single unit. In English both "This is a book" and "This book is interesting" use the same "this" word, but in Japanese one uses これ and the other uses この. 
+Imagine you are holding a book and you want to say "This is a book". "Book" is the focus of the sentence, so you would say これは本です. You are simply stating "this \= book" using a copula. However, if you want to say something **about** this book, you would instead say この本は面白いです. **This book** is interesting. "This" and "book" become a single unit. In English both "This is a book" and "This book is interesting" use the same "this" word, but in Japanese one uses これ and the other uses この. 
 
 The same applies for all the other こそあど words with の. 
 

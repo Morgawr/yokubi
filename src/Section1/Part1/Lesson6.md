@@ -13,7 +13,7 @@ The English translation doesn't even have any marking all the nouns. Particles m
 
 The subject can be dropped in Japanese if it's understood or not important. A lot of example sentences will have a lack of a clear pronoun, so our translations will just add a random one for the sake of making them readable. Remember that just because an example translation may say "he" instead of "she" it doesn't mean that it is clear in Japanese.
 
-へ translates well as "to" or "toward" in most situations, including abstract ones. In the previous example it also works as "on." Translations can be fairly loose.
+へ translates well as "to" or "toward" in most situations, including abstract ones. In the previous example it also works as "on". Translations can be fairly loose.
 
 <pre>
 東京<b>へ</b>行く
