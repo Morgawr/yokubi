@@ -13,7 +13,7 @@ Ichidan: Drop る, add ない
 |見る   | 見ない   | 
 |食べる | 食べない |
 
-Godan: Replace "u" with "a," then add ない
+Godan: Replace "u" with "a", then add ない
 
 | Plain | Negative |
 |-------|----------|

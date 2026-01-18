@@ -20,7 +20,7 @@ At the end of a list of 〜たり actions, it is natural to attach the verb す�
 Because I want to do <b>things like</b> holding hands, embracing each other, and kissing.
 </pre>
 
-Unlike chaining verbs using て form, たり does not assume any strict ordering or precedence of action. It simply states that any of those actions (and even other unstated ones) takes place in whatever order. AてB roughly means "Do A, then do B," while AたりBたりする means "do things like A and B."
+Unlike chaining verbs using て form, たり does not assume any strict ordering or precedence of action. It simply states that any of those actions (and even other unstated ones) takes place in whatever order. AてB roughly means "Do A, then do B", while AたりBたりする means "do things like A and B".
 
 Aside its most basic explanation, it has a few other specific idiomatic uses. It can be used to:
 

@@ -1,6 +1,6 @@
 # Comparing things with より and の方が
 
-より is used to compare two things in a direct way, like the "than" in "I'm smarter than you." When you use より, you do not need to use a "more" word, unlike English which needs to say "**more** X than Y" or "X**er** than Y." Sometimes より can be followed by も for emphasis.
+より is used to compare two things in a direct way, like the "than" in "I'm smarter than you". When you use より, you do not need to use a "more" word, unlike English which needs to say "**more** X than Y" or "X**er** than Y". Sometimes より can be followed by も for emphasis.
 
 <pre>
 彼は誰<b>より</b>も強いよ
@@ -39,7 +39,7 @@ Literally, this 方 usage marks a "side" of the comparison. XよりYの方がZ c
 
 There are a few idiomatic expressions that make use of 方が.
 
-\<verb\>方がいい means "it is better to do \<verb\>." It is common in this construction to use the verb in past tense if the statement comes from a position of personal advice rather than a general truth.
+\<verb\>方がいい means "it is better to do \<verb\>". It is common in this construction to use the verb in past tense if the statement comes from a position of personal advice rather than a general truth.
 
 <pre>
 やめ<b>た方がいい</b>と思います

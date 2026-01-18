@@ -14,7 +14,7 @@ There is a shop.
 Both ある and いる are verbs of existence, and when it comes to marking the location of existence, we usually use に instead of で.
 </div>
 
-Sometimes, when people want to state that they have/own something, they use ある or いる. They technically don't mean "to have," but it's an equivalent translation to how we use "have/possess" in English. It's just a wording difference.
+Sometimes, when people want to state that they have/own something, they use ある or いる. They technically don't mean "to have", but it's an equivalent translation to how we use "have/possess" in English. It's just a wording difference.
 
 <pre>
 デスクが<b>ある</b>
@@ -27,7 +27,7 @@ I have a cat.
 いる conjugates as an ichidan verb.
 
 <div class="warning">
-There is another いる verb: 要る which means "to need." The difference is that this verb conjugates as godan instead, so besides the plain form, you can easily distinguish the two from each other when they are conjugated.
+There is another いる verb: 要る which means "to need". The difference is that this verb conjugates as godan instead, so besides the plain form, you can easily distinguish the two from each other when they are conjugated.
 </div>
 
 ある conjugates as a godan verb, but its negative conjugation is irregular.

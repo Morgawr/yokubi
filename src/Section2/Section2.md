@@ -4,7 +4,7 @@ At this point, you should begin reading, skimming later lessons to see what the 
 
 Language learning takes time, even if you put in a lot of effort. You have to apply yourself, but you won't see big results until you do it for a long enough time. Think about what that means. The very first time you start reading, everything is going to feel really weird and you're not going to "get it". That's okay. It'd be weird if you didn't react that way. But reading (or using other forms of input, including listening) is the only way to make that weird feeling go away.
 
-And this goes for every little part of reading. New words, grammar patterns, ways that Japanese people communicate, and figures of speech. They all feel weird and alien at first and don't make sense. But eventually, once you are exposed to them enough, you'll kinda start to "get it." That's why you've gotta start reading. You have to start the process of getting your brain familiarized with it in ways that we don't consciously understand yet.
+And this goes for every little part of reading. New words, grammar patterns, ways that Japanese people communicate, and figures of speech. They all feel weird and alien at first and don't make sense. But eventually, once you are exposed to them enough, you'll kinda start to "get it". That's why you've gotta start reading. You have to start the process of getting your brain familiarized with it in ways that we don't consciously understand yet.
 
 This guide can't teach you Japanese. Nobody can teach you Japanese. The only way to learn Japanese is to understand messages that are written or said in Japanese. But why is the focus on "understanding messages" in particular? 
 

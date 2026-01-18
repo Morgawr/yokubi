@@ -1,6 +1,6 @@
 # Possession and attributes with の
 
-の is a particle. It's a possessive marker and an attributive marker. "Attributive" here means that something is an attribute of something else, like an attribute in a video game, like the "flame" in "flame sword." The relationship is always straightforward.
+の is a particle. It's a possessive marker and an attributive marker. "Attributive" here means that something is an attribute of something else, like an attribute in a video game, like the "flame" in "flame sword". The relationship is always straightforward.
 
 <pre>
 私<b>の</b>ネコ
@@ -16,14 +16,14 @@ Ahead of the cat
 Boy (metaphorically, male child)
 </pre>
 
-If you get lost, the easiest way to remember の is: It's like "of," but it applies backwards.
+If you get lost, the easiest way to remember の is: It's like "of", but it applies backwards.
 
 <pre>
 夜<b>の</b>人
 Person of the night
 </pre>
 
-Sometimes "of" gets confusing, and you have to remember the idea of "attribute."
+Sometimes "of" gets confusing, and you have to remember the idea of "attribute".
 
 <pre>
 夜<b>の</b>海   

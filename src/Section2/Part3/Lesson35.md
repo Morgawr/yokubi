@@ -1,6 +1,6 @@
 # Generic nouns and nominalization with 事, 物, ところ, and の
 
-事(こと) and 物(もの) both mean "thing." 事 is generally used for intangible things like actions or states, and 物 is generally used for tangible things like objects. Grammatically, they are nouns, so just like any other noun they can be modified by verbs and adjectives.
+事(こと) and 物(もの) both mean "thing". 事 is generally used for intangible things like actions or states, and 物 is generally used for tangible things like objects. Grammatically, they are nouns, so just like any other noun they can be modified by verbs and adjectives.
 
 <pre>
 あ、いい<b>こと</b>考えた
@@ -10,7 +10,7 @@ Ah, I just thought about something good
 I want to eat something tasty
 </pre>
 
-所(ところ) is a word that means "place." It is used in similar patterns, including ones about intangible places like moments in time or progress, and aspects of an entity. It is often contracted to とこ. 
+所(ところ) is a word that means "place". It is used in similar patterns, including ones about intangible places like moments in time or progress, and aspects of an entity. It is often contracted to とこ. 
 
 <pre>
 ちょうどいい<b>ところ</b>に来ました。

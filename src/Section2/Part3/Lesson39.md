@@ -1,10 +1,10 @@
 # Reasoning with から そして ので で
 
-から is not just the case particle "from." It also shows up as a conjunction, used to connect two sentences, where the thing after から is the outcome or result of the thing before から. 
+から is not just the case particle "from". It also shows up as a conjunction, used to connect two sentences, where the thing after から is the outcome or result of the thing before から. 
 
 You can differentiate the conjuction から from the case particle から because the particle only comes after nouns and the conjunction after completed clauses. This means to attach the "because of" から to nouns and な adjectives, you must add だ (or です). It also can go directly after verbs and い adjectives (which the particle から cannot do).
 
-A(だ)からB roughly means "It is B, because of A."
+A(だ)からB roughly means "It is B, because of A".
 
 <pre>
 暑い<b>から</b>プールに行きたいです
@@ -33,7 +33,7 @@ It's hot outside, <b>so</b> please be careful.
 It was an important thing<b>, so</b> I said it twice.
 </pre>
 
-で can be used as a conjunction similar to "so." It establishes a weak cause \-\> effect relationship. で goes after nouns and な adjectives. For verbs and い adjectives they get conjugated in て form to achieve the same result. 
+で can be used as a conjunction similar to "so". It establishes a weak cause \-\> effect relationship. で goes after nouns and な adjectives. For verbs and い adjectives they get conjugated in て form to achieve the same result. 
 
 <pre>
 突然のこと<b>で、</b>すぐに理解できなかった

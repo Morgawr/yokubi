@@ -1,6 +1,6 @@
 # Getting more with も and と
 
-も is an inclusion marker. You can think of it like "too" or "also." Sometimes "even."
+も is an inclusion marker. You can think of it like "too" or "also". Sometimes "even".
 
 も is a particle that, similar to は, goes together with other already-existing particles. When も is used to mark something that would be normally marked by が or を, the particle is dropped and only も is left. With other particles, you just attach も after the original particle.
 
@@ -26,7 +26,7 @@ While も usually "hides" を, you might come across をも as well. It's a bit 
 I won't eat, <b>either</b>. (in addition to other people)
 </pre>
 
-The particle と is also used to provide some "inclusion," but it works very differently from も. It may look similar at an English translation level, but don't be fooled. They are nothing alike. 
+The particle と is also used to provide some "inclusion", but it works very differently from も. It may look similar at an English translation level, but don't be fooled. They are nothing alike. 
 
 と normally makes a list of things.
 
@@ -35,7 +35,7 @@ The particle と is also used to provide some "inclusion," but it works very dif
 Jim <b>and</b> Mary won't come.
 </pre>
 
-と can also be used to mark someone the subject does an action "with." Do not confuse this with で which might seem similar: the distinction is that と is usually used for people (who you do something with), while で is used for tools and things (what you do something with). 
+と can also be used to mark someone the subject does an action "with". Do not confuse this with で which might seem similar: the distinction is that と is usually used for people (who you do something with), while で is used for tools and things (what you do something with). 
 
 <pre>
 私はヤン<b>と</b>勉強する

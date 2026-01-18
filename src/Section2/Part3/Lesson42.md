@@ -1,6 +1,6 @@
 # Linking conjunctions のに, ように, ために, せいで, and おかげで
 
-のに is related to ので, but it works in the opposite direction. While ので means "because of X, Y," のに means "despite X, Y." Like ので, this is more "objective" than other adversatives. のに also loves being attached to the end of sentences as an emphasis marker of disappointment or discontentment.
+のに is related to ので, but it works in the opposite direction. While ので means "because of X, Y", のに means "despite X, Y". Like ので, this is more "objective" than other adversatives. のに also loves being attached to the end of sentences as an emphasis marker of disappointment or discontentment.
 
 <pre>
 もう会えないと思ってた<b>のに、</b>また会うことができた。
@@ -14,7 +14,7 @@ Just like ので, のに needs な after nouns and な adjectives
 It's such an obvious thing if you think about it a bit.. (sounds disappointed)
 </pre>
 
-ように essentially means "so as to," as in "walk so as to keep your back hidden." This treads a fine line between "for the purpose of" and "in such a way as."
+ように essentially means "so as to", as in "walk so as to keep your back hidden". This treads a fine line between "for the purpose of" and "in such a way as".
 
 <pre>
 足音を立てない<b>ように</b>歩く
@@ -30,9 +30,9 @@ If it helps, you can think of ように as a noun (よう = "manner") turned int
 He was running<b>, in order to</b> confirm that. 
 </pre>
 
-In many situations, ために and ように are interchangeable with the meaning of "for the purpose of," but not always.
+In many situations, ために and ように are interchangeable with the meaning of "for the purpose of", but not always.
 
-ために can also be used to mean "for the sake of" rather than "for the purpose of." The nuance is different in English but in Japanese it is not always obvious. に can also be dropped.
+ために can also be used to mean "for the sake of" rather than "for the purpose of". The nuance is different in English but in Japanese it is not always obvious. に can also be dropped.
 
 <pre>
 あなたの<b>ため</b>なら、なんでもするよ。

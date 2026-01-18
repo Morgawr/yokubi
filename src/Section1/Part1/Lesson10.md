@@ -37,7 +37,7 @@ This also works for negative conjugations, which is also how we apply て form t
 | 赤くな<b>い</b> | 赤くな<b>くて</b> |
 | 食べな<b>い</b> | 食べな<b>くて</b> |
 
-We saw "A is B" and "A does B" type of sentences. With the introduction of the て form we will see our first example of "A does B, and then D does C" type of sentences. At the very basic syntax level, AてB means "A happens, and then B." It can mark either a temporal sequence, or a cause \-\> consequence relationship. It allows us to make longer sentences with multiple verbs in sequence. Note that the subject on both sides does not have to be the same.
+We saw "A is B" and "A does B" type of sentences. With the introduction of the て form we will see our first example of "A does B, and then D does C" type of sentences. At the very basic syntax level, AてB means "A happens, and then B". It can mark either a temporal sequence, or a cause \-\> consequence relationship. It allows us to make longer sentences with multiple verbs in sequence. Note that the subject on both sides does not have to be the same.
 
 <pre>
 察しがよく<b>て</b>助かる

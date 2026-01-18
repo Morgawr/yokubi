@@ -23,7 +23,7 @@ Don't say stupid things, please
 Please don't eat.
 </pre>
 
-ください can also be used as standalone verb, rather than an auxiliary. In this case, it means "please give me." You can use it to order stuff in shops.
+ください can also be used as standalone verb, rather than an auxiliary. In this case, it means "please give me". You can use it to order stuff in shops.
 
 <pre>
 肉まんを<b>ください</b>

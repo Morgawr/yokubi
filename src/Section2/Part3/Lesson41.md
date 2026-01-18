@@ -2,7 +2,7 @@
 
 Let's now talk about counting things. When you want to state an amount or quantity, you usually cannot have "free" numbers in the middle of a sentence. You need to pair them with a special word that describes what type of quantity you are defining. These special words are called "counters" and there are **a lot** of them. Some are incredibly specific and change depending on the thing you are counting, but some are more generic and the rules aren't as strict as you might be led to believe.
 
-It's like how in English you can't say "I eat 3 breads," and you have to say "I eat 3 **loaves** of bread" or "3 **slices** of bread" instead. Japanese works like this for most countable things.
+It's like how in English you can't say "I eat 3 breads", and you have to say "I eat 3 **loaves** of bread" or "3 **slices** of bread" instead. Japanese works like this for most countable things.
 
 The most common counter word is つ, however つ is also special because it does not go above 9. If you need to count more than 9 "generic” things, you need to use another counter (often 個, but you can't always use 個 for everything).
 

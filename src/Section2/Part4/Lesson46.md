@@ -1,8 +1,8 @@
 # "Just" with だけ, のみ, ばかり, and しか
 
-だけ, のみ, and ばかり are variations of "just" or "only." しか is similar, but it can only be used in negative statements.
+だけ, のみ, and ばかり are variations of "just" or "only". しか is similar, but it can only be used in negative statements.
 
-だけ means "just so," in terms of amount. It acts like a particle.
+だけ means "just so", in terms of amount. It acts like a particle.
 
 <pre>
 俺<b>だけ</b>行く
@@ -19,7 +19,7 @@ It's not only me.
 There is only salt & pepper as flavoring
 </pre>
 
-ばかり is yet another "only" word. It can also be pronounced ばっか or ばっかり. Xばかり focuses on everything falling within the definition of X as being true, whereas だけ and のみ focus on things that fall outside of the statement being false. Think of the difference in vibes between "There is only this" and "There is nothing else."
+ばかり is yet another "only" word. It can also be pronounced ばっか or ばっかり. Xばかり focuses on everything falling within the definition of X as being true, whereas だけ and のみ focus on things that fall outside of the statement being false. Think of the difference in vibes between "There is only this" and "There is nothing else".
 
 <pre>
 悪いこと<b>ばかり</b>じゃないと思います。

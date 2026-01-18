@@ -74,7 +74,7 @@ We <b>should have been</b> more careful.
 
 べし is an archaic version of べき. Just be aware it exists.
 
-ものだ can also express "should" with the nuance that it's a general "should" that applies to a lot of people, not just a specific person or a group. It is often used to state the nature of "how things are."
+ものだ can also express "should" with the nuance that it's a general "should" that applies to a lot of people, not just a specific person or a group. It is often used to state the nature of "how things are".
 
 <pre>
 子供は親の言う事を聞く<b>ものだ</b>。

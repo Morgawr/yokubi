@@ -1,6 +1,6 @@
 # Wrongness with だめ, いけない, ならない, and how to say "must"
 
-だめ is a word that means something like "no good," "useless," or "no use." It can be used to say that a statement would be bad, after connecting that previous statement with ては or conditionals like たら, etc.
+だめ is a word that means something like "no good", "useless", or "no use". It can be used to say that a statement would be bad, after connecting that previous statement with ては or conditionals like たら, etc.
 
 <pre>
 あまり迷惑をかけ<b>てはダメ</b>ですよ。  
@@ -17,7 +17,7 @@ Had it been Japan it <b>would've been bad</b>, but here it seems fine.
 Stealing other people's stuff <b>is unacceptable</b>. (lit: "it is unbecoming")
 </pre>
 
-All three of these "not good" groups (だめ, ならない, いけない) are often used with a negative conditional statement (〜なければならない, 〜なくてはいけない, 〜ないとダメ, and any other similar combination) to convey a meaning of "must do." Since Aてはならない means "must not do A," then logically (not A)てはならない means "must not *not* do A" hence "must do A."
+All three of these "not good" groups (だめ, ならない, いけない) are often used with a negative conditional statement (〜なければならない, 〜なくてはいけない, 〜ないとダメ, and any other similar combination) to convey a meaning of "must do". Since Aてはならない means "must not do A", then logically (not A)てはならない means "must not *not* do A" hence "must do A".
 
 This is how you say "must do X" or "have to do X" in Japanese. It sounds like a mouthful, but you'll get used to it in no time.
 

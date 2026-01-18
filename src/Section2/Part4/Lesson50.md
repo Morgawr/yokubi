@@ -1,6 +1,6 @@
 # Trying stuff with てみる
 
-The てみる auxiliary originates from the verb 見る, and can provide some insight on how to remember what it means. It roughly means "try to do something (and see how it goes)." However, when it is used with this meaning, it should never be written in kanji. 
+The てみる auxiliary originates from the verb 見る, and can provide some insight on how to remember what it means. It roughly means "try to do something (and see how it goes)". However, when it is used with this meaning, it should never be written in kanji. 
 
 てみる indicates that the action is "tried" or being done with the intent to see what the outcome of doing so will be.
 

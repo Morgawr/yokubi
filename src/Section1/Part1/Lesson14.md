@@ -4,9 +4,9 @@
 In grammar, a "clause" is a phrase that contains a single statement. "It's already over" is a clause. The "I'm late" in "I'm sorry I'm late" is a clause. Compound sentences like "I'm late because the traffic was bad" contain multiple clauses.
 </div>
 
-Relative clauses are statements that are embedded inside other statements. If we take a structure like "A is B," a relative clause allows us to expand it as much as we want with something like "A is (B that is C)" and then "A is (B that is (C that does D))." In English, this may look unwieldy, but in Japanese it is very common.
+Relative clauses are statements that are embedded inside other statements. If we take a structure like "A is B", a relative clause allows us to expand it as much as we want with something like "A is (B that is C)" and then "A is (B that is (C that does D))". In English, this may look unwieldy, but in Japanese it is very common.
 
-In this lesson we're going to cover relative clauses that modify nouns. Relative clauses that modify nouns are things like "I used to live in" in the sentence "That is the house <ins>I used to live in</ins>."
+In this lesson we're going to cover relative clauses that modify nouns. Relative clauses that modify nouns are things like "I used to live in" in the sentence "That is the house <ins>I used to live in</ins>".
 
 To make a verb modify a noun directly, you just attach the verb right before the noun. This means that Japanese verbs can basically act like adjectives.
 

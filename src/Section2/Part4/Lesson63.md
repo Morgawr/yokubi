@@ -13,8 +13,8 @@ The guidance of a parent or a teacher is important.
 
 きり/っきり is an auxiliary suffix with three meanings.
 - In the pattern \<noun\>きり, it acts like an "only" marker.
-- In the pattern \<statement\>きり, it basically means "ever since \<statement\>."
-- In the pattern \<verb stem\>きり, it can mean "to do \<verb\> to completion."
+- In the pattern \<statement\>きり, it basically means "ever since \<statement\>".
+- In the pattern \<verb stem\>きり, it can mean "to do \<verb\> to completion".
 
 やら is a particle with two meanings. It can be used at the end of a question like か but with a nuance of uncertainty and emotional emphasis.
 
@@ -37,7 +37,7 @@ If it's inside a dream, I can serve things like tea and sweets.
 It is <b>precisely</b> at times like these I must keep cool.
 </pre>
 
-さえ is an emphatic particle that means "even an X," "only an X," or "as long as X," depending on the phrase. 
+さえ is an emphatic particle that means "even an X", "only an X", or "as long as X", depending on the phrase. 
 
 <pre>
 私<b>さえ</b>いなければ、こんなことにはならなかった。
@@ -47,14 +47,14 @@ If <b>only</b> I hadn't been there, this wouldn't have happened.
 <b>As long as</b> we have this, it will somehow work out.
 </pre>
 
-すら is a slightly literary emphatic particle very similar to さえ. すら can replace さえ when さえ means "even an X."
+すら is a slightly literary emphatic particle very similar to さえ. すら can replace さえ when さえ means "even an X".
 
 <pre>
 何が起きたのか<b>すら</b>理解できなかった。
 I couldn't <b>even</b> understand what had happened.
 </pre>
 
-ずつ is a particle that means "each" or "at a time." It emphasizes that the pace of something is steady.
+ずつ is a particle that means "each" or "at a time". It emphasizes that the pace of something is steady.
 
 <pre>
 ゆっくり、ゆっくりと、一歩<b>ずつ</b>。
