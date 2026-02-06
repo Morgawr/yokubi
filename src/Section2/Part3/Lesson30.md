@@ -18,7 +18,7 @@ I said I'm not scared
 In English we distinguish between direct and indirect quotes through punctuation. For example:
 
 <pre>
-"I will eat the cake", he said. (direct quote)  
+"I will eat the cake," he said. (direct quote)  
 He said he would eat the cake. (indirect quote)
 </pre>
 
