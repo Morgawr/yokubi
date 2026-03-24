@@ -32,7 +32,7 @@ These generic nouns are the base of common phrases and expressions like the foll
 As long as you don't overdo it, there's no way you will die. 
 </pre>
 
-死ぬことはない is literally somehing like 'there is no “will die” event/moment'.
+死ぬことはない is literally something like 'there is no “will die” event/moment'.
 
 Another one is \<verb\>たことがある which literally means something like "the action of having done \<verb\> exists" and it means "to have done \<verb\> before":
 
