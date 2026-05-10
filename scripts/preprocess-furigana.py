@@ -2,11 +2,6 @@ import json
 import re
 import sys
 
-# if hasattr(sys.stdin, "reconfigure"):
-#     sys.stdin.reconfigure(encoding="utf-8")
-# if hasattr(sys.stdout, "reconfigure"):
-#     sys.stdout.reconfigure(encoding="utf-8")
-
 
 def furi_replace(text):
     # ex format: {f|翌|よく}{f|日|び}
