@@ -45,5 +45,5 @@ As a reminder, では is often contracted as じゃ. Some dialects may use diffe
 
 <pre>
 ペンじゃ
-Tis a pen. (it's a pen.)
+'tis a pen. (it's a pen.)
 </pre>
