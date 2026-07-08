@@ -40,7 +40,7 @@ I <b>became</b> to crave for takoyaki
 If we go down from here, it will <b>become</b> impossible to find the way.
 
 見えなかったものが見える<b>ようになる</b>。
-The stuff that was not visible <b>became</b> visible
+The stuff that was not visible <b>becomes</b> visible
 </pre>
 
 It is common for the structure ようになる to have the verb in potential form to mean "become able to do" something.
