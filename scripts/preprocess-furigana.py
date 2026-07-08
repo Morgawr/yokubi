@@ -16,6 +16,9 @@ def process_chapters(items):
             process_chapters(chapter.get("sub_items", []))
 
 
+def get_book_items(book):
+    return book.get("items", book.get("sections", []))
+
 
 def main():
     if len(sys.argv) > 1 and sys.argv[1] == "supports":
@@ -23,9 +26,10 @@ def main():
 
     try:
         _, book = json.load(sys.stdin)
-        process_chapters(book.get("items", []))
+        process_chapters(get_book_items(book))
         json.dump(book, sys.stdout, ensure_ascii=False)
-    except Exception:
+    except Exception as e:
+        print(f"preprocess-furigana failed: {e}", file=sys.stderr)
         sys.exit(1)
 
 
