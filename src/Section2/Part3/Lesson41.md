@@ -19,7 +19,7 @@ The most common counter word is つ, however つ is also special because it does
 | 九つ　 | ここのつ                                         |
 | 十　　 | とお (this is an exception, it is not a counter) |
 
-As you can see, the pronunciation of these words is incredibly annoying to learn. Don't try to memorize all this, just be aware it exists and get exposed to it via immersion. The same applies for a lot of other counter words like days (日), months (月) , years (年), age (際/才), etc. The readings are incredibly irregular.
+As you can see, the pronunciation of these words is incredibly annoying to learn. Don't try to memorize all this, just be aware it exists and get exposed to it via immersion. The same applies for a lot of other counter words like days (日), months (月) , years (年), age (歳/才), etc. The readings are incredibly irregular.
 
 One interesting exception, on the topic of age, is that ages are sometimes reported directly in numbers without a counter:
 
