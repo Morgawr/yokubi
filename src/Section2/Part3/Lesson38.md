@@ -14,7 +14,7 @@ Let's study <b>while</b> looking at the screen.
 I waited for grandpa to come home <b>while</b> studying there
 </pre>
 
-In the first first example, the main action is to study and that is what the speaker wants to do, while in the second example the speaker is focused on the action of waiting, and while doing so they study.
+In the first example, the main action is to study and that is what the speaker wants to do, while in the second example the speaker is focused on the action of waiting, and while doing so they study.
 
 つつ is another auxiliary that can be used more or less the same as ながら, except it sounds more formal and is almost only relegated to literary sentences. 
 
